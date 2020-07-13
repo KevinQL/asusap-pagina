@@ -1,0 +1,118 @@
+
+ul{
+    margin: 0px;
+    list-style: none;
+    padding: 0px;
+}
+/* HEADER NAVEGACION */
+.navegacion-pre a{
+    margin-left: 10px;    
+}
+
+.navegacion{
+    display: inline-block;
+    margin-left: auto;    
+    padding: 0px;
+}
+
+.navegacion ul li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 50px;
+}
+.navegacion ul li a{
+    text-decoration: none;
+
+}
+
+.logo{
+    position: absolute;
+    top:-10px;
+}
+
+
+/*SLIDER PRESENTACION*/
+.slider-presentacion{
+    position: relative;
+    height: 80vh;
+    overflow: hidden;
+
+    background-image: url(../public/img4.jpg);    
+    background-position: center;
+    background-size: cover;        
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+}
+.slider-presentacion img {    
+    width: 100%;
+    height: 100%;   
+}
+.texto-presentacion{
+    position: absolute;
+    top:35vh;
+    width: 100%;
+}
+
+/* section certificado */
+.seccion-certificado{
+    position: relative;
+    padding: 0px;
+    width: 100%;
+    height: 85vh;
+    overflow: hidden;
+
+    background-image: url(../public/imgpresentacion.jpg);    
+    background-position: center;
+    background-size: cover;        
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+
+    opacity: .9;
+}
+.seccion-certificado img{
+    /*
+    background-position: center;
+    background-size: contain;        
+    background-attachment: fixed;
+    transform: translateY(-50%);
+    max-width: 100%;
+    min-height: 100%;
+    */
+}
+.opaco{
+    position: absolute;
+    top:0px;
+    width: 100%;
+    height: 85vh;
+    background-color: rgba(50, 50, 0, .5);
+}
+.seccion-certificado .container{
+    padding-top: 30vh;
+    z-index: 10;
+}
+
+
+/* SECCION 4 COLUMNAS CON FOTOS DE FONDO*/
+.seccion-4columnas{
+    min-height: 60vh;
+}
+.seccion-4columnas div{
+    max-height: 100%;
+}
+
+
+/* SECCION RECORRIDO */
+.seccion-recorrido{
+    height: 70vh;
+    overflow: hidden;
+    
+    background-image: url(../public/imgpresentacion.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+/*
+    */
+}
+.seccion-recorrido > div {
+    padding-top: 20vh;
+}
