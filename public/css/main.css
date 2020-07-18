@@ -1,0 +1,263 @@
+.header_k .navpre_k nav a {
+  margin-left: 15px;
+  text-decoration: none;
+  color: #3769ac;
+  font-size: 10px;
+  transition: all 0.6s;
+}
+.header_k .navpre_k nav a:hover {
+  color: #294872;
+  background: rgba(41, 71, 114, 0.137);
+  border: none;
+  padding: 3px 5px;
+  border-radius: 4px;
+}
+@media All and (max-width: 500px) {
+  .header_k .navpre_k nav a {
+    display: none;
+  }
+}
+.header_k .navmenu_k {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.header_k .navmenu_k .logo {
+  height: 65px;
+  width: 65px;
+}
+.header_k .navmenu_k .barra-menu {
+  height: 65px;
+  width: 65px;
+  position: absolute;
+  right: 10px;
+  visibility: hidden;
+  background-color: rgba(173, 173, 173, 0.472);
+  color: #3769ac;
+  text-align: center;
+  line-height: 65px;
+  border: none;
+  border-radius: 4px;
+}
+@media All and (max-width: 500px) {
+  .header_k .navmenu_k .barra-menu {
+    visibility: visible;
+  }
+}
+.header_k .navmenu_k .barra-menu:hover + .navegacion {
+  display: block;
+}
+.header_k .navmenu_k .navegacion ul {
+  margin: 0px;
+  padding: 0px;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.header_k .navmenu_k .navegacion ul li {
+  list-style: none;
+  position: relative;
+}
+.header_k .navmenu_k .navegacion ul li a {
+  color: #294872;
+  font-size: 17px;
+  text-decoration: none;
+  margin-left: 30px;
+  padding: 5px;
+}
+.header_k .navmenu_k .navegacion ul li .submenu {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: all 0.3s;
+  position: absolute;
+  left: -30%;
+  width: 130%;
+  z-index: 100;
+}
+.header_k .navmenu_k .navegacion ul li .submenu li {
+  display: block;
+  left: 0px;
+  list-style: none;
+  width: 100%;
+  padding: 0px;
+}
+.header_k .navmenu_k .navegacion ul li .submenu li a {
+  display: block;
+  width: 100%;
+  color: white;
+  border: none;
+  border-radius: 2px;
+  font-size: 14px;
+  background-color: rgba(41, 71, 114, 0.972);
+  padding: 8px 10px;
+  margin-bottom: 1px;
+  transition: all 0.8s;
+}
+.header_k .navmenu_k .navegacion ul li .submenu li a:hover {
+  background-color: #17355f;
+}
+@media All and (max-width: 500px) {
+  .header_k .navmenu_k .navegacion ul li .submenu li a {
+    margin-left: 0px;
+    padding: 15px 0px;
+    padding-left: 50px;
+    font-size: 16px;
+  }
+}
+@media All and (max-width: 500px) {
+  .header_k .navmenu_k .navegacion ul li .submenu {
+    width: 100%;
+    background-color: #294872;
+    position: static;
+    display: none;
+  }
+}
+.header_k .navmenu_k .navegacion ul li:hover .submenu {
+  opacity: 1;
+  transform: translateY(0px);
+}
+@media All and (max-width: 500px) {
+  .header_k .navmenu_k .navegacion ul li:hover .submenu {
+    display: block;
+  }
+}
+@media All and (max-width: 500px) {
+  .header_k .navmenu_k .navegacion ul li {
+    background-color: #3769ac;
+    display: block;
+    width: 100%;
+    padding: 18px 0px;
+    margin-bottom: 1px;
+  }
+  .header_k .navmenu_k .navegacion ul li a {
+    color: white;
+  }
+}
+@media All and (max-width: 500px) {
+  .header_k .navmenu_k .navegacion {
+    position: absolute;
+    left: 0px;
+    display: none;
+    z-index: 100;
+  }
+}
+@media All and (max-width: 500px) {
+  .header_k .navmenu_k {
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+    display: block;
+    z-index: 100;
+  }
+}
+
+.slider-presentacion {
+  height: 90vh;
+  position: relative;
+  overflow: hidden;
+  background-image: url(../images/img4.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.seccion-certificado {
+  height: 85vh;
+  position: relative;
+  overflow: hidden;
+  background-image: url(../images/imgpresentacion.jpg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.seccion-certificado .opaco {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(52, 75, 5, 0.541);
+}
+@media All and (max-width: 500px) {
+  .seccion-certificado {
+    height: auto;
+    padding: 30px 0px;
+  }
+}
+
+.seccion-fotos div .columna-sec41 {
+  overflow: hidden;
+  background-color: yellowgreen;
+  height: 80vh;
+  background-image: url(../images/imgpresentacion.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.seccion-fotos div .columna-sec42, .seccion-fotos div .columna-sec43, .seccion-fotos div .columna-sec44 {
+  overflow: hidden;
+  height: 80vh;
+  position: relative;
+  transition: all 0.3s;
+}
+.seccion-fotos div .columna-sec42 img, .seccion-fotos div .columna-sec43 img, .seccion-fotos div .columna-sec44 img {
+  position: absolute;
+  left: 0px;
+  background-position: center;
+  background-size: cover;
+  height: 100%;
+  transform: translate(-30%);
+  transition: all 1s;
+}
+.seccion-fotos div .columna-sec42 .informacion, .seccion-fotos div .columna-sec43 .informacion, .seccion-fotos div .columna-sec44 .informacion {
+  position: absolute;
+}
+.seccion-fotos div .columna-sec42:hover, .seccion-fotos div .columna-sec43:hover, .seccion-fotos div .columna-sec44:hover {
+  color: white;
+  font-size: 0.8rem;
+}
+.seccion-fotos div .columna-sec42:hover img, .seccion-fotos div .columna-sec43:hover img, .seccion-fotos div .columna-sec44:hover img {
+  transform: translate(0%);
+}
+@media all and (max-width: 500px) {
+  .seccion-fotos div .columna-sec42, .seccion-fotos div .columna-sec43, .seccion-fotos div .columna-sec44 {
+    height: 70vh;
+  }
+  .seccion-fotos div .columna-sec42 img, .seccion-fotos div .columna-sec43 img, .seccion-fotos div .columna-sec44 img {
+    width: 200%;
+    height: auto;
+  }
+  .seccion-fotos div .columna-sec42 .informacion, .seccion-fotos div .columna-sec43 .informacion, .seccion-fotos div .columna-sec44 .informacion {
+    position: relative;
+  }
+}
+
+.seccion-recorrido {
+  height: 75vh;
+  background-image: url(../images/imgpresentacion.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+@media all and (max-width: 500px) {
+  .seccion-recorrido {
+    height: auto;
+    padding: 30px 0px;
+  }
+}
+
+/*# sourceMappingURL=main.css.map */

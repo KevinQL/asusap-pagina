@@ -1,0 +1,54 @@
+
+.seccion-fotos div{     
+    .columna-sec41{
+        overflow: hidden;
+        background-color: yellowgreen;
+        height: 80vh;
+        background-image: url(../images/imgpresentacion.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    //columna 2
+    .columna-sec42, .columna-sec43, .columna-sec44{
+        overflow: hidden;
+        height: 80vh;
+        position: relative;
+        transition: all .3s;
+
+        img{
+            position: absolute;
+            left: 0px;
+            background-position: center;
+            background-size: cover;            
+            height: 100%;
+            transform: translate(-30%);
+            transition: all 1s;
+        }
+        .informacion{
+            position: absolute;
+
+        }
+
+        &:hover{
+            color:white;
+            font-size: .8rem;
+            img{
+                transform: translate(0%);
+            }
+        }
+        @media all and ( max-width:500px ){
+            height: 70vh;
+            img{
+                width: 200%;
+                height: auto;
+            }
+            .informacion{
+                position: relative;
+            }
+        }
+        
+    }
+
+}
