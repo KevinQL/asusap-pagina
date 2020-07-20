@@ -1,0 +1,54 @@
+
+.seccion-servicios{
+    //evitar margen en dispositivos para el servicio otros
+    .servicio-otros{
+        @media all and ( max-width:500px ){
+            margin-top: 0px !important;
+        }
+    }
+
+    .card-servicios{
+        // background-color: indianred;
+        .servicios-link{
+            text-decoration: none;            
+
+            display:block;
+            height: 100%;
+            width: 100%;
+            padding: 18px 0px;
+            // background-color: green;
+            color:$color-primario;
+        }        
+        .servicios-link2{
+            text-decoration: none;
+            display: inline-block;
+            // background-color: green;
+            color: $color-primario;
+            padding: 18px 70px;
+
+            @media all and ( max-width:500px ){
+                display: block;
+                height: 100%;
+                width: 100%;
+                padding: 18px 0px;                
+            }
+        }
+
+        [class*='servicios-link']{
+            transition: all .7s;
+            i,p{
+                transition: all .7s;
+            }            
+            &:hover{
+                background-color:$color-hover;
+                color: $color-secundario;
+                i{
+                    transform: scale(1.2);
+                }
+                p{
+                    transform: translateY(3px);
+                }
+            }
+        }
+    }
+}

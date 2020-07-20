@@ -1,5 +1,7 @@
 
-.seccion-fotos div{     
+.seccion-fotos div{    
+    overflow: hidden;
+    
     .columna-sec41{
         overflow: hidden;
         background-color: yellowgreen;
@@ -15,6 +17,7 @@
         overflow: hidden;
         height: 80vh;
         position: relative;
+        box-sizing: border-box;
         transition: all .3s;
 
         img{

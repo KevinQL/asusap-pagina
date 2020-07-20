@@ -22,44 +22,45 @@
 
         
         
-        <header class="header_k container-fluid mt-2 mb-1">
+        <header class="header_k container-fluid mt-2 mb-1 sticky-top">
             <div class="navpre_k row mx-5">
                 <nav class="navegacion-pre d-inline-block ml-auto">                    
-                    <a href="#">MAPA DE SITIO</a>
+                    <!-- <a href="#">MAPA DE SITIO</a>
                     <a href="#">WEBMAIL</a>
                     <a href="#">HISTORIAS Y NOTICIAS</a>
-                    <a href="#">UNETE A ASUSAP</a>
+                    <a href="#">UNETE A ASUSAP</a> -->
                     <a href="#">|</a>
-                    <a href="#">Fa</a>
-                    <a href="#">Tw</a>
-                    <a href="#">Ytb</a>
-                    <a href="#">Imst</a>       
+                    <a href="#"><i class="fab fa-facebook-square"></i></a>
+                    <a href="#"><i class="fab fa-instagram-square"></i></a>
+                    <a href="#"><i class="fab fa-youtube-square"></i></a>
+                    <a href="#"><i class="fab fa-twitter-square"></i></a>  
+                    <a href="#" class="d-none"><i class="fas fa-faucet "></i></a>  
+                    
                 </nav>
             </div>
 
-            <div class="navmenu_k row mx-5">
-                
-                <img src="public/images/logo.svg" alt="" class="logo" >
+            <div class="navmenu_k row mx-5">                
+                <img src="public/images/ASUSAP3.svg" alt="" class="logo" >
                 <!-- <img src="public/images/logo.svg" alt="" class="barra-menu">  -->
                 <i class="fas fa-bars fa-3x barra-menu"></i>               
 
-                <nav class="navegacion text-monospace lead">
+                <nav class="navegacion text-monospace lead ">
                     <ul>
-                        <li><a href="#">INICIO</a></li>
-                        <li><a href="#">QUIENES SOMOS</a>
+                        <li><a href="#">INICIO <i class="fas fa-home"></i></a></li>
+                        <li><a href="#">QUIENES SOMOS <i class="fas fa-people-carry"></i></a>
                             <ul class="submenu">
                                 <li><a href="#">Encargatura</a></li>
                                 <li><a href="#">Dirección</a></li>
                             </ul>
                         </li>                        
-                        <li><a href="#">ORGANIZACIÓN</a></li>
-                        <li><a href="#">SERVICIOS</a>
+                        <li><a href="#">ORGANIZACIÓN <i class="fas fa-sitemap"></i></a></li>
+                        <li><a href="#servicios">SERVICIOS <i class="fas fa-hard-hat"></i></a>
                             <ul class="submenu">
                                 <li><a href="#">Servicio #1</a></li>
                                 <li><a href="#">Servicio #2</a></li>
                             </ul>
                         </li>
-                        <li><a href="#">INFÓRMATE</a></li>
+                        <li><a href="#">INFÓRMATE <i class="fas fa-info"></i></a></li>
                     </ul>
                 </nav>                
             </div>
@@ -72,7 +73,7 @@
             <img src="public/img3.jpg" alt="">                    
             -->
             <div class="texto-presentacion text-center">
-                <h3 class="text-white text-uppercase">Lorem ipsum dolor sit amet. lorem Lorem ipsum  <br> dolor sit amet.</h3>
+                <h2 class="text-white text-uppercase">ASOCIACIÓN DE USUARIOS DE AGUA POTABLE SAN JERÓNIMO <br> ASUSAP - SAN JERÓNIMO</h2>
                 <button class="btn btn-lg btn-outline-info px-5 mt-5 px-5 py-3 text-uppercase text-bold">más información</button>
             </div>
         </section>
@@ -81,26 +82,30 @@
             <h5>HACEMOS INVESTIGACION Y PROYECTOS DE ALTO IMPACTO SOCIAL</h5>
         </div>
 
-        <div class="container-fluid px-5 mb-5">
+        <div class="seccion-inv-y-proy container-fluid px-5 mb-5">
             <div class="row text-center">
-                <div class="col-md-3">
+                <div class="card-k col-md-3">
                     <img src="public/images/cm-1.svg" alt="logo" class="" height="150px">
                     <h4>HISTORIA</h4>
+                    <hr class="line-seccion">
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem, expedita! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem odit omnis perferendis, laboriosam obcaecati reiciendis explicabo similique architecto impedit mollitia.</p>
                 </div>
-                <div class="col-md-3">
+                <div class="card-k col-md-3">
                     <img src="public/images/cm-2.svg" alt="logo" class="" height="150px">
                     <h4>MISIÓN</h4>
+                    <hr class="line-seccion">
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem, expedita! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem odit omnis perferendis, laboriosam obcaecati reiciendis explicabo similique architecto impedit mollitia.</p>
                 </div>
-                <div class="col-md-3">
+                <div class="card-k col-md-3">
                     <img src="public/images/cm-3.svg" alt="logo" class="" height="150px">
                     <h4>VISIÓN</h4>
+                    <hr class="line-seccion">
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem, expedita! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem odit omnis perferendis, laboriosam obcaecati reiciendis explicabo similique architecto impedit mollitia.</p>
                 </div>
-                <div class="col-md-3">
+                <div class="card-k col-md-3">
                     <img src="public/images/cm-4.svg" alt="logo" class="" height="150px">
                     <h4>CONVENIOS</h4>
+                    <hr class="line-seccion">
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem, expedita! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem odit omnis perferendis, laboriosam obcaecati reiciendis explicabo similique architecto impedit mollitia.</p>
                 </div>
             </div>
@@ -137,35 +142,45 @@
             </div>
         </section>
 
-        <section class="container mt-5 text-center">
+        <section class="seccion-servicios container mt-5 text-center" id="servicios">
             <div class="row mb-5">
                 <div class="col">
                     <h4 class="">SERVICIOS</h4>
                 </div>                
             </div>
             <div class="row text-uppercase text-center mt-3">
-                <div class="col-md-3">
-                    <i class="fas fa-heartbeat fa-5x"></i>
-                    <p class="mt-3">Nueva instalación</p>
+                <div class="card-servicios col-md-3">
+                    <a href="#" class="servicios-link">
+                        <i class="fas fa-heartbeat fa-5x"></i>
+                        <p class="mt-3">Nueva instalación</p>
+                    </a>
                 </div>
-                <div class="col-md-3">
-                    <i class="fas fa-tools fa-5x"></i>
-                    <p class="mt-3">Corte y reconexión</p>
+                <div class="card-servicios col-md-3">
+                    <a href="#" class="servicios-link">
+                        <i class="fas fa-tools fa-5x"></i>
+                        <p class="mt-3">Corte y reconexión</p>                        
+                    </a>
                 </div>
-                <div class="col-md-3">
-                    <i class="fas fa-seedling fa-5x"></i>
-                    <p class="mt-3">Averías de redes tendidas</p>
+                <div class="card-servicios col-md-3">
+                    <a href="#" class="servicios-link">
+                        <i class="fas fa-seedling fa-5x"></i>
+                        <p class="mt-3">Averías de redes tendidas</p>                        
+                    </a>
                 </div>
-                <div class="col-md-3">
-                    <i class="fas fa-flask fa-5x"></i>
-                    <p class="mt-3">Gasfitería</p>
+                <div class="card-servicios col-md-3">
+                    <a href="#" class="servicios-link">
+                        <i class="fas fa-flask fa-5x"></i>
+                        <p class="mt-3">Gasfitería</p>                        
+                    </a>
                 </div>                
             </div>
 
-            <div class="row text-uppercase text-center mt-5">
-                <div class="col-md-12">
-                    <i class="fas fa-seedling fa-5x"></i>
-                    <p class="mt-3">Otros</p>
+            <div class="row text-uppercase text-center mt-5 servicio-otros">
+                <div class="card-servicios col-md-12">
+                    <a href="#" class="servicios-link2">                         
+                        <i class="fas fa-seedling fa-5x"></i>
+                        <p class="mt-3">Otros</p>
+                    </a>
                 </div>                
             </div>
         </section>
@@ -198,6 +213,11 @@
                     </div>
                 </div>
             </div>
+        </section>
+
+        <section class="container seccion-noticias">
+            <h1>NOTICIAS</h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus laboriosam alias eos nihil aliquam quod voluptatibus inventore quasi similique, architecto reiciendis eveniet ipsa. Ipsum aliquid, eligendi amet similique nihil ex.</p>
         </section>
 
         <section class="container seccion-recorrido">     
@@ -250,9 +270,12 @@
                         </ul>
                     </div>
 
-                    <div class="col-md-6 text-center pt-5 lead text-muted">
-                        <h3>ASUSAP - 2020</h3>
-                        <p>SAN JERÓNIMO - APURIMAC</p>
+                    <div class="col-md-6 text-center p-0">
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1635.657618545781!2d-73.36477804209281!3d-13.65080709760321!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x916d29fc303d70fd%3A0x33e373f4bb798822!2sASUSAP!5e1!3m2!1ses!2spe!4v1595195295027!5m2!1ses!2spe" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                    </div>
+
+                    <div class="col-md-12 text-center text-muted mt-5" >
+                        <span>CopyRight ASUSAP - 2020</span>
                     </div>
                 </div>
             </div>

@@ -1,13 +1,20 @@
 .header_k{
     //menu principal
+    background-color:rgba(255, 255, 255, 0.938);
+    transition: all .7s;
+    &:hover{
+        background-color:white;
+        color: white;
+    }
     .navpre_k nav a{
         margin-left: 15px;
         text-decoration: none;
         color:$color-primario;
-        font-size: 10px;
-        transition: all .6s;
+        font-size: 18px;
+        transition: all .3s;
         &:hover{
-            color:$color-secundario;
+            // color:$color-secundario;
+            color:goldenrod;
             background: $color-hover;
             border: none;
             padding: 3px 5px;
@@ -30,7 +37,7 @@
 
         .logo{
             height: 65px;
-            width: 65px;
+            width: 150px;                        
             // position: relative;
             // top:-10px
         }

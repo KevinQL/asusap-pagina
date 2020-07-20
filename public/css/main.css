@@ -1,12 +1,20 @@
+.header_k {
+  background-color: rgba(255, 255, 255, 0.938);
+  transition: all 0.7s;
+}
+.header_k:hover {
+  background-color: white;
+  color: white;
+}
 .header_k .navpre_k nav a {
   margin-left: 15px;
   text-decoration: none;
   color: #3769ac;
-  font-size: 10px;
-  transition: all 0.6s;
+  font-size: 18px;
+  transition: all 0.3s;
 }
 .header_k .navpre_k nav a:hover {
-  color: #294872;
+  color: goldenrod;
   background: rgba(41, 71, 114, 0.137);
   border: none;
   padding: 3px 5px;
@@ -25,7 +33,7 @@
 }
 .header_k .navmenu_k .logo {
   height: 65px;
-  width: 65px;
+  width: 150px;
 }
 .header_k .navmenu_k .barra-menu {
   height: 65px;
@@ -167,6 +175,24 @@
   flex-direction: column;
   justify-content: center;
 }
+.seccion-inv-y-proy .card-k img {
+  transition: all 0.4s;
+}
+.seccion-inv-y-proy .card-k .line-seccion {
+  border: none;
+  background-color: #294872;
+  padding: 1px;
+  width: 7%;
+  transition: all 0.4s;
+}
+.seccion-inv-y-proy .card-k:hover .line-seccion {
+  width: 75%;
+  background-color: #3769ac;
+}
+.seccion-inv-y-proy .card-k:hover img {
+  transform: translateY(-7px);
+}
+
 .seccion-certificado {
   height: 85vh;
   position: relative;
@@ -196,6 +222,53 @@
   }
 }
 
+@media all and (max-width: 500px) {
+  .seccion-servicios .servicio-otros {
+    margin-top: 0px !important;
+  }
+}
+.seccion-servicios .card-servicios .servicios-link {
+  text-decoration: none;
+  display: block;
+  height: 100%;
+  width: 100%;
+  padding: 18px 0px;
+  color: #3769ac;
+}
+.seccion-servicios .card-servicios .servicios-link2 {
+  text-decoration: none;
+  display: inline-block;
+  color: #3769ac;
+  padding: 18px 70px;
+}
+@media all and (max-width: 500px) {
+  .seccion-servicios .card-servicios .servicios-link2 {
+    display: block;
+    height: 100%;
+    width: 100%;
+    padding: 18px 0px;
+  }
+}
+.seccion-servicios .card-servicios [class*=servicios-link] {
+  transition: all 0.7s;
+}
+.seccion-servicios .card-servicios [class*=servicios-link] i, .seccion-servicios .card-servicios [class*=servicios-link] p {
+  transition: all 0.7s;
+}
+.seccion-servicios .card-servicios [class*=servicios-link]:hover {
+  background-color: rgba(41, 71, 114, 0.137);
+  color: #294872;
+}
+.seccion-servicios .card-servicios [class*=servicios-link]:hover i {
+  transform: scale(1.2);
+}
+.seccion-servicios .card-servicios [class*=servicios-link]:hover p {
+  transform: translateY(3px);
+}
+
+.seccion-fotos div {
+  overflow: hidden;
+}
 .seccion-fotos div .columna-sec41 {
   overflow: hidden;
   background-color: yellowgreen;
@@ -209,6 +282,7 @@
   overflow: hidden;
   height: 80vh;
   position: relative;
+  box-sizing: border-box;
   transition: all 0.3s;
 }
 .seccion-fotos div .columna-sec42 img, .seccion-fotos div .columna-sec43 img, .seccion-fotos div .columna-sec44 img {
@@ -245,6 +319,7 @@
 
 .seccion-recorrido {
   height: 75vh;
+  overflow: hidden;
   background-image: url(../images/imgpresentacion.jpg);
   background-position: center;
   background-repeat: no-repeat;

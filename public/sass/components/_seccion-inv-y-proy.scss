@@ -1,0 +1,25 @@
+
+
+.seccion-inv-y-proy {
+    .card-k{
+        img{            
+            transition: all .4s;
+        }
+        .line-seccion{
+            border:none;
+            background-color: $color-secundario;
+            padding: 1px;
+            width: 7%;
+            transition: all .4s;
+        }
+        &:hover{
+            .line-seccion{
+                width: 75%;
+                background-color: $color-primario;        
+            }
+            img{
+                transform: translateY(-7px);
+            }
+        }
+    }
+}
