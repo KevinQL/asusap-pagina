@@ -1,0 +1,31 @@
+
+.seccion-noticias{
+    .card-noticia{
+        // background-color: yellow;        
+        overflow: hidden;
+        .borde-noticia{
+            border:.5px solid rgba(194, 194, 194, 0.719);
+            padding-bottom:10px;
+            .img-noticia{
+                width: 100%;
+                height: 300px;
+            }
+            p{
+                overflow: hidden;
+                height: 100px;                
+                // background-color: yellowgreen;
+            }
+            button{
+                background-color: $color-secundario;
+                color: white;
+                display: block;
+                width: 100px;
+                margin: 0 auto;
+            }
+        }
+
+        @media All and ( max-width:500px ){
+            margin-bottom: 5px;
+        }
+    }    
+}
