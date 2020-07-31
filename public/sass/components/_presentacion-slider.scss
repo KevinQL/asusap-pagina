@@ -4,7 +4,8 @@
     position:relative;
     overflow:hidden;
 
-    background-image: url(../images/img4.jpg);
+    background-image: url(../images/asusap/reservorio1.jpg);
+    // img4
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -16,7 +17,14 @@
     flex-direction: column;
     justify-content: center;
 
+    .fondo{
+        position: absolute;
+        height: 100%;
+        width: 100%;
+        background-color: rgba($color: #272727, $alpha: .5);
+        z-index: 3;
+    }
     .texto-presentacion {
-
+        z-index: 100;
     }
 }

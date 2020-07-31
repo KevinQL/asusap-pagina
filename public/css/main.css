@@ -165,7 +165,7 @@
   height: 90vh;
   position: relative;
   overflow: hidden;
-  background-image: url(../images/img4.jpg);
+  background-image: url(../images/asusap/reservorio1.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -175,6 +175,17 @@
   flex-direction: column;
   justify-content: center;
 }
+.slider-presentacion .fondo {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(39, 39, 39, 0.5);
+  z-index: 3;
+}
+.slider-presentacion .texto-presentacion {
+  z-index: 100;
+}
+
 .seccion-inv-y-proy .card-k img {
   transition: all 0.4s;
 }
@@ -197,7 +208,7 @@
   height: 85vh;
   position: relative;
   overflow: hidden;
-  background-image: url(../images/imgpresentacion.jpg);
+  background-image: url(../images/asusap/reservorio2.jpg);
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
@@ -332,7 +343,7 @@
   overflow: hidden;
   height: 100px;
 }
-.seccion-noticias .card-noticia .borde-noticia button {
+.seccion-noticias .card-noticia .borde-noticia button, .seccion-noticias .card-noticia .borde-noticia a {
   background-color: #294872;
   color: white;
   display: block;
