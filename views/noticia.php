@@ -36,7 +36,13 @@
                     <img src="public/images/asusap/reservorio1.jpg" alt="" class="img-fluid w-100">
                 </div>
                 <div class="col-md-3">
+                    <img src="public/images/asusap/reservorio2.jpg" alt="" class="img-fluid w-100">
+                </div>
+                <div class="col-md-3">
                     <img src="public/images/asusap/reservorio1.jpg" alt="" class="img-fluid w-100">
+                </div>
+                <div class="col-md-3">
+                    <img src="public/images/asusap/reservorio2.jpg" alt="" class="img-fluid w-100">
                 </div>
                 <div class="col-md-3">
                     <img src="public/images/asusap/reservorio1.jpg" alt="" class="img-fluid w-100">
@@ -45,7 +51,38 @@
                     <img src="public/images/asusap/reservorio1.jpg" alt="" class="img-fluid w-100">
                 </div>
             </section>
+
         </div>
+
+        <!-- GALERIA HOVER NOTICIAS  -->
+        <section class="galeria-fotos">
+            <div class="container-galeria">
+                <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <img src="public/images/asusap/reservorio1.jpg" class="" alt="...">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="public/images/asusap/reservorio2.jpg" class="" alt="...">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="public/images/asusap/reservorio1.jpg" class="" alt="...">
+                        </div>
+                    </div>
+                    <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
+            </div>
+            <div class="btn-salir">
+                <button class="btn btn-sm btn-danger">SALIR</button>
+            </div>
+        </section>
 
 
 
@@ -89,6 +126,10 @@
         <?php
             include_once(PARTIALS_PAGE."cdnsfooter.html");
         ?>
+
+        <script>
+            
+        </script>
 
     </body>
 </html>
