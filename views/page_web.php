@@ -24,17 +24,16 @@
             <img src="public/img3.jpg" alt="">                    
             -->
             <div class="fondo">
-                hola webon
             </div>
 
             <div class="texto-presentacion text-center">
-                <h2 class="text-white text-uppercase">ASOCIACIÓN DE USUARIOS DE AGUA POTABLE SAN JERÓNIMO <br> ASUSAP - SAN JERÓNIMO</h2>
+                <h2 class="text-white text-uppercase">ASOCIACIÓN DE USUARIOS DE AGUA POTABLE SAN JERÓNIMO<br>ASUSAP</h2>
                 <button class="btn btn-lg btn-outline-info px-5 mt-5 px-5 py-3 text-uppercase text-bold">más información</button>
             </div>
         </section>
 
         <div class="text-center bg-info p-3 mb-4 text-white lead">
-            <h5>HACEMOS INVESTIGACION Y PROYECTOS DE ALTO IMPACTO SOCIAL</h5>
+            <h5>NOS PREOCUPAMOS POR QUE TENGAS EL MEJOR SERVICIO DE AGUA POTABLE</h5>
         </div>
 
         <div class="seccion-inv-y-proy container-fluid px-5 mb-5">
@@ -143,27 +142,27 @@
         <section class="seccion-fotos container mt-5">
             <div class="row">
                 <div class="col-md-3 columna-sec41">
-                    <h2>HOLA MUNDO </h2>
+                    <h2>ÑAHUIN</h2>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos rerum libero, delectus eligendi molestiae vel voluptatem quas recusandae! Dignissimos, molestias. Veniam beatae impedit laborum modi, repellat dolore pariatur, laudantium ab, recusandae rem voluptas libero placeat. Vel architecto id excepturi delectus, culpa possimus magnam repudiandae sint quia nihil quaerat et nulla.</p>
                 </div>
                 <div class="col-md-3 columna-sec42 bg-primary">
-                    <img src="public/images/asusap/oficina2.jpg" alt="">
+                    <img src="public/images/asusap/trata_ña.jpg" alt="">
                     <div class="informacion">
-                        <h2>HOLA MUNDO </h2>
+                        <h2>TRATAMIENTO</h2>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos rerum libero, delectus eligendi molestiae vel voluptatem quas recusandae! Dignissimos, molestias. Veniam beatae impedit laborum modi, repellat dolore pariatur, laudantium ab, recusandae rem voluptas libero placeat. Vel architecto id excepturi delectus, culpa possimus magnam repudiandae sint quia nihil quaerat et nulla.</p>
                     </div>
                 </div>
                 <div class="col-md-3 columna-sec43 bg-danger">
-                    <img src="public/images/asusap/reservorio2.jpg" alt="">
+                    <img src="public/images/asusap/reservorio1.jpg" alt="">
                     <div class="informacion">
-                        <h2>HOLA MUNDO </h2>
+                        <h2>HUASIPARA</h2>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos rerum libero, delectus eligendi molestiae vel voluptatem quas recusandae! Dignissimos, molestias. Veniam beatae impedit laborum modi, repellat dolore pariatur, laudantium ab, recusandae rem voluptas libero placeat. Vel architecto id excepturi delectus, culpa possimus magnam repudiandae sint quia nihil quaerat et nulla.</p>
                     </div>
                 </div>
                 <div class="col-md-3 columna-sec44 bg-warning">
-                    <img src="public/images/asusap/reservorio1.jpg" alt="">
+                    <img src="public/images/asusap/cloro.jpg" alt="">
                     <div class="informacion">
-                        <h2>HOLA MUNDO </h2>
+                        <h2>TRATAMIENTO</h2>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos rerum libero, delectus eligendi molestiae vel voluptatem quas recusandae! Dignissimos, molestias. Veniam beatae impedit laborum modi, repellat dolore pariatur, laudantium ab, recusandae rem voluptas libero placeat. Vel architecto id excepturi delectus, culpa possimus magnam repudiandae sint quia nihil quaerat et nulla.</p>
                     </div>
                 </div>
