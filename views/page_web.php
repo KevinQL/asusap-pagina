@@ -24,7 +24,7 @@
             <img src="public/img3.jpg" alt="">                    
             -->
             <div class="fondo">
-                hola we
+                hola webon
             </div>
 
             <div class="texto-presentacion text-center">
