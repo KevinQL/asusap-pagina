@@ -165,7 +165,7 @@
   height: 90vh;
   position: relative;
   overflow: hidden;
-  background-image: url(../images/asusap/reservorio1.jpg);
+  background-image: url(../images/asusap/oficina2.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -208,7 +208,7 @@
   height: 85vh;
   position: relative;
   overflow: hidden;
-  background-image: url(../images/asusap/reservorio2.jpg);
+  background-image: url(../images/asusap/llaves.jpg);
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
@@ -233,11 +233,6 @@
   }
 }
 
-@media all and (max-width: 500px) {
-  .seccion-servicios .servicio-otros {
-    margin-top: 0px !important;
-  }
-}
 .seccion-servicios .card-servicios .servicios-link {
   text-decoration: none;
   display: block;
@@ -245,20 +240,6 @@
   width: 100%;
   padding: 18px 0px;
   color: #3769ac;
-}
-.seccion-servicios .card-servicios .servicios-link2 {
-  text-decoration: none;
-  display: inline-block;
-  color: #3769ac;
-  padding: 18px 70px;
-}
-@media all and (max-width: 500px) {
-  .seccion-servicios .card-servicios .servicios-link2 {
-    display: block;
-    height: 100%;
-    width: 100%;
-    padding: 18px 0px;
-  }
 }
 .seccion-servicios .card-servicios [class*=servicios-link] {
   transition: all 0.7s;
@@ -274,29 +255,29 @@
   transform: scale(1.2);
 }
 .seccion-servicios .card-servicios [class*=servicios-link]:hover p {
-  transform: translateY(3px);
+  transform: translateY(10px);
 }
 
 .seccion-fotos div {
   overflow: hidden;
 }
-.seccion-fotos div .columna-sec41 {
+.seccion-fotos div .columna-sec40 {
   overflow: hidden;
   background-color: yellowgreen;
   height: 80vh;
-  background-image: url(../images/imgpresentacion.jpg);
+  background-image: url(../images/asusap/tanque.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
-.seccion-fotos div .columna-sec42, .seccion-fotos div .columna-sec43, .seccion-fotos div .columna-sec44 {
+.seccion-fotos div .columna-sec41, .seccion-fotos div .columna-sec42, .seccion-fotos div .columna-sec43, .seccion-fotos div .columna-sec44 {
   overflow: hidden;
   height: 80vh;
   position: relative;
   box-sizing: border-box;
   transition: all 0.3s;
 }
-.seccion-fotos div .columna-sec42 img, .seccion-fotos div .columna-sec43 img, .seccion-fotos div .columna-sec44 img {
+.seccion-fotos div .columna-sec41 img, .seccion-fotos div .columna-sec42 img, .seccion-fotos div .columna-sec43 img, .seccion-fotos div .columna-sec44 img {
   position: absolute;
   left: 0px;
   background-position: center;
@@ -305,25 +286,25 @@
   transform: translate(-30%);
   transition: all 1s;
 }
-.seccion-fotos div .columna-sec42 .informacion, .seccion-fotos div .columna-sec43 .informacion, .seccion-fotos div .columna-sec44 .informacion {
+.seccion-fotos div .columna-sec41 .informacion, .seccion-fotos div .columna-sec42 .informacion, .seccion-fotos div .columna-sec43 .informacion, .seccion-fotos div .columna-sec44 .informacion {
   position: absolute;
 }
-.seccion-fotos div .columna-sec42:hover, .seccion-fotos div .columna-sec43:hover, .seccion-fotos div .columna-sec44:hover {
+.seccion-fotos div .columna-sec41:hover, .seccion-fotos div .columna-sec42:hover, .seccion-fotos div .columna-sec43:hover, .seccion-fotos div .columna-sec44:hover {
   color: white;
   font-size: 0.8rem;
 }
-.seccion-fotos div .columna-sec42:hover img, .seccion-fotos div .columna-sec43:hover img, .seccion-fotos div .columna-sec44:hover img {
+.seccion-fotos div .columna-sec41:hover img, .seccion-fotos div .columna-sec42:hover img, .seccion-fotos div .columna-sec43:hover img, .seccion-fotos div .columna-sec44:hover img {
   transform: translate(0%);
 }
 @media all and (max-width: 500px) {
-  .seccion-fotos div .columna-sec42, .seccion-fotos div .columna-sec43, .seccion-fotos div .columna-sec44 {
+  .seccion-fotos div .columna-sec41, .seccion-fotos div .columna-sec42, .seccion-fotos div .columna-sec43, .seccion-fotos div .columna-sec44 {
     height: 70vh;
   }
-  .seccion-fotos div .columna-sec42 img, .seccion-fotos div .columna-sec43 img, .seccion-fotos div .columna-sec44 img {
+  .seccion-fotos div .columna-sec41 img, .seccion-fotos div .columna-sec42 img, .seccion-fotos div .columna-sec43 img, .seccion-fotos div .columna-sec44 img {
     width: 200%;
     height: auto;
   }
-  .seccion-fotos div .columna-sec42 .informacion, .seccion-fotos div .columna-sec43 .informacion, .seccion-fotos div .columna-sec44 .informacion {
+  .seccion-fotos div .columna-sec41 .informacion, .seccion-fotos div .columna-sec42 .informacion, .seccion-fotos div .columna-sec43 .informacion, .seccion-fotos div .columna-sec44 .informacion {
     position: relative;
   }
 }
@@ -359,7 +340,7 @@
 .seccion-recorrido {
   height: 75vh;
   overflow: hidden;
-  background-image: url(../images/imgpresentacion.jpg);
+  background-image: url(../images/asusap/bomba.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
