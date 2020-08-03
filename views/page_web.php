@@ -96,7 +96,7 @@
             </div>
         </section>
 
-        <section class="seccion-servicios container mt-5 text-center" id="servicios">
+        <section class="seccion-servicios container my-5 text-center" id="servicios">
             <div class="row mb-5">
                 <div class="col">
                     <h4 class="">SERVICIOS</h4>
@@ -105,45 +105,52 @@
             <div class="row text-uppercase text-center mt-3">
                 <div class="card-servicios col-md-3">
                     <a href="#" class="servicios-link">
-                        <i class="fas fa-heartbeat fa-5x"></i>
+                        <i class="fas fa-heartbeat fa-8x"></i>
                         <p class="mt-3">Nueva instalación</p>
                     </a>
                 </div>
                 <div class="card-servicios col-md-3">
                     <a href="#" class="servicios-link">
-                        <i class="fas fa-tools fa-5x"></i>
+                        <i class="fas fa-tools fa-8x"></i>
                         <p class="mt-3">Corte y reconexión</p>                        
                     </a>
                 </div>
                 <div class="card-servicios col-md-3">
                     <a href="#" class="servicios-link">
-                        <i class="fas fa-seedling fa-5x"></i>
+                        <i class="fas fa-seedling fa-8x"></i>
                         <p class="mt-3">Averías de redes tendidas</p>                        
                     </a>
                 </div>
                 <div class="card-servicios col-md-3">
                     <a href="#" class="servicios-link">
-                        <i class="fas fa-flask fa-5x"></i>
+                        <i class="fas fa-flask fa-8x"></i>
                         <p class="mt-3">Gasfitería</p>                        
                     </a>
                 </div>                
             </div>
 
-            <div class="row text-uppercase text-center mt-5 servicio-otros">
+            <!-- <div class="row text-uppercase text-center mt-5 servicio-otros">
                 <div class="card-servicios col-md-12">
                     <a href="#" class="servicios-link2">                         
                         <i class="fas fa-seedling fa-5x"></i>
                         <p class="mt-3">Otros</p>
                     </a>
                 </div>                
-            </div>
+            </div> -->
         </section>
 
         <section class="seccion-fotos container mt-5">
             <div class="row">
-                <div class="col-md-3 columna-sec41">
+                <!-- <div class="col-md-3 columna-sec41">
                     <h2>ÑAHUIN</h2>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos rerum libero, delectus eligendi molestiae vel voluptatem quas recusandae! Dignissimos, molestias. Veniam beatae impedit laborum modi, repellat dolore pariatur, laudantium ab, recusandae rem voluptas libero placeat. Vel architecto id excepturi delectus, culpa possimus magnam repudiandae sint quia nihil quaerat et nulla.</p>
+                </div> -->
+                <div class="col-md-3 columna-sec41 bg-secondary">
+                    <img src="public/images/asusap/tanque.jpg" alt="">
+                    <div class="informacion">
+                        <h2>ÑAHUIN</h2>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos rerum libero, delectus eligendi molestiae vel voluptatem quas recusandae! Dignissimos, molestias. Veniam beatae impedit laborum modi, repellat dolore pariatur, laudantium ab, recusandae rem voluptas libero placeat. Vel architecto id excepturi delectus, culpa possimus magnam repudiandae sint quia nihil quaerat et nulla.</p>
+                    </div>
                 </div>
                 <div class="col-md-3 columna-sec42 bg-primary">
                     <img src="public/images/asusap/trata_ña.jpg" alt="">
