@@ -165,7 +165,7 @@
   height: 90vh;
   position: relative;
   overflow: hidden;
-  background-image: url(../images/asusap/reservorio1.jpg);
+  background-image: url(../images/asusap/oficina2.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -208,7 +208,7 @@
   height: 85vh;
   position: relative;
   overflow: hidden;
-  background-image: url(../images/asusap/reservorio2.jpg);
+  background-image: url(../images/asusap/llaves.jpg);
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
@@ -284,7 +284,7 @@
   overflow: hidden;
   background-color: yellowgreen;
   height: 80vh;
-  background-image: url(../images/imgpresentacion.jpg);
+  background-image: url(../images/asusap/tanque.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -359,7 +359,7 @@
 .seccion-recorrido {
   height: 75vh;
   overflow: hidden;
-  background-image: url(../images/imgpresentacion.jpg);
+  background-image: url(../images/asusap/bomba.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
