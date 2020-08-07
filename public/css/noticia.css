@@ -3,6 +3,7 @@
 }
 .noticia-fotos div img {
   height: 160px;
+  cursor: pointer;
 }
 
 .noticia-pagina .noticia-imagen {
@@ -48,6 +49,16 @@
 .galeria-fotos .btn-salir {
   position: absolute;
   top: 5px;
+  background-color: rgba(0, 0, 0, 0.3);
+  display: block;
+  text-align: center;
+}
+.galeria-fotos .btn-salir .btn-salir-click i {
+  color: white;
+}
+.galeria-fotos .btn-salir p {
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
 }
 @media all and (max-width: 500px) {
   .galeria-fotos .container-galeria {

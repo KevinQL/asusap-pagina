@@ -27,8 +27,8 @@
             </div>
 
             <div class="texto-presentacion text-center">
-                <h2 class="text-white text-uppercase">ASOCIACIÓN DE USUARIOS DE AGUA POTABLE SAN JERÓNIMO<br>ASUSAP</h2>
-                <button class="btn btn-lg btn-outline-info px-5 mt-5 px-5 py-3 text-uppercase text-bold">más información</button>
+                <h2 class="text-uppercase">ASOCIACIÓN DE USUARIOS DE AGUA POTABLE SAN JERÓNIMO<br>ASUSAP</h2>
+                <!-- <button class="btn btn-lg btn-outline-info px-5 mt-5 px-5 py-3 text-uppercase text-bold">más información</button> -->
             </div>
         </section>
 
@@ -265,6 +265,7 @@
             </div> -->
         </section>
 
+        <!-- SECCIÓN FOTOS FOTOS -->
         <section class="seccion-fotos container mt-5">
             <div class="row">
                 <!-- <div class="col-md-3 columna-sec41">
@@ -273,6 +274,7 @@
                 </div> -->
                 <div class="col-md-3 columna-sec41 bg-secondary">
                     <img src="public/images/asusap/tanque.jpg" alt="">
+                    <div class="sombra"></div>
                     <div class="informacion">
                         <h2>ÑAHUIN</h2>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos rerum libero, delectus eligendi molestiae vel voluptatem quas recusandae! Dignissimos, molestias. Veniam beatae impedit laborum modi, repellat dolore pariatur, laudantium ab, recusandae rem voluptas libero placeat. Vel architecto id excepturi delectus, culpa possimus magnam repudiandae sint quia nihil quaerat et nulla.</p>
@@ -280,6 +282,7 @@
                 </div>
                 <div class="col-md-3 columna-sec42 bg-primary">
                     <img src="public/images/asusap/trata_ña.jpg" alt="">
+                    <div class="sombra"></div>
                     <div class="informacion">
                         <h2>TRATAMIENTO</h2>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos rerum libero, delectus eligendi molestiae vel voluptatem quas recusandae! Dignissimos, molestias. Veniam beatae impedit laborum modi, repellat dolore pariatur, laudantium ab, recusandae rem voluptas libero placeat. Vel architecto id excepturi delectus, culpa possimus magnam repudiandae sint quia nihil quaerat et nulla.</p>
@@ -287,6 +290,7 @@
                 </div>
                 <div class="col-md-3 columna-sec43 bg-danger">
                     <img src="public/images/asusap/reservorio1.jpg" alt="">
+                    <div class="sombra"></div>
                     <div class="informacion">
                         <h2>HUASIPARA</h2>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos rerum libero, delectus eligendi molestiae vel voluptatem quas recusandae! Dignissimos, molestias. Veniam beatae impedit laborum modi, repellat dolore pariatur, laudantium ab, recusandae rem voluptas libero placeat. Vel architecto id excepturi delectus, culpa possimus magnam repudiandae sint quia nihil quaerat et nulla.</p>
@@ -294,6 +298,7 @@
                 </div>
                 <div class="col-md-3 columna-sec44 bg-warning">
                     <img src="public/images/asusap/cloro.jpg" alt="">
+                    <div class="sombra"></div>
                     <div class="informacion">
                         <h2>TRATAMIENTO</h2>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos rerum libero, delectus eligendi molestiae vel voluptatem quas recusandae! Dignissimos, molestias. Veniam beatae impedit laborum modi, repellat dolore pariatur, laudantium ab, recusandae rem voluptas libero placeat. Vel architecto id excepturi delectus, culpa possimus magnam repudiandae sint quia nihil quaerat et nulla.</p>
@@ -337,7 +342,7 @@
         </section> -->
 
         
-        <section class="container my-5 seccion-noticias">
+        <section class="container my-5 seccion-noticias" id="seccion-noticias">
             <div class="col-md-12 text-center mb-3">
                 <h1>NOTICIAS</h1>
             </div>

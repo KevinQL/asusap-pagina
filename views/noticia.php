@@ -54,7 +54,7 @@
 
         </div>
 
-        <!-- GALERIA HOVER NOTICIAS  -->
+        <!-- GALERIA HOVER NOTICIAS - FORMA MODAL-->
         <section class="galeria-fotos">
             <div class="container-galeria">
                 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
@@ -80,7 +80,8 @@
                 </div>
             </div>
             <div class="btn-salir">
-                <button class="btn btn-sm btn-danger">SALIR</button>
+                <button class="btn btn-sm btn-salir-click"><i class="fas fa-window-close fa-2x"></i></button>
+                <p class="px-5 py-2"> Puedes pasar la galería de imagenes de un lado a otro para ver todas las fotos.</p>
             </div>
         </section>
 
