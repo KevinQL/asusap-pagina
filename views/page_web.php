@@ -26,7 +26,7 @@
             <div class="fondo">
             </div>
             <div class="texto-presentacion text-center">
-                <h2 class="text-uppercase">ASOCIACIÓN DE USUARIOS DE AGUA POTABLE SAN JERÓNIMO<br>ASUSAP</h2>
+                <h2 class="text-uppercase" style="font-size: 60px">ASOCIACIÓN DE USUARIOS DE AGUA POTABLE SAN JERÓNIMO<br>ASUSAP</h2>
                 <!-- <button class="btn btn-lg btn-outline-info px-5 mt-5 px-5 py-3 text-uppercase text-bold">más información</button> -->
             </div>
         </section>
