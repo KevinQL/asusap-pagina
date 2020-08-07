@@ -185,6 +185,11 @@
 .slider-presentacion .texto-presentacion {
   z-index: 100;
 }
+.slider-presentacion .texto-presentacion h2 {
+  color: white;
+  text-shadow: 2px 2px 3px #e6e6e6b9;
+  font-family: "Playfair Display SC", serif;
+}
 
 .seccion-inv-y-proy .card-k img {
   transition: all 0.4s;
@@ -264,15 +269,6 @@
 .seccion-fotos div {
   overflow: hidden;
 }
-.seccion-fotos div .columna-sec40 {
-  overflow: hidden;
-  background-color: yellowgreen;
-  height: 80vh;
-  background-image: url(../images/asusap/tanque.jpg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
 .seccion-fotos div .columna-sec41, .seccion-fotos div .columna-sec42, .seccion-fotos div .columna-sec43, .seccion-fotos div .columna-sec44 {
   overflow: hidden;
   height: 80vh;
@@ -282,22 +278,42 @@
 }
 .seccion-fotos div .columna-sec41 img, .seccion-fotos div .columna-sec42 img, .seccion-fotos div .columna-sec43 img, .seccion-fotos div .columna-sec44 img {
   position: absolute;
+  display: block;
   left: 0px;
-  background-position: center;
-  background-size: cover;
-  height: 100%;
+  max-height: 100%;
   transform: translate(-30%);
-  transition: all 1s;
+  transition: all 2s;
+}
+@media all and (max-width: 500px) {
+  .seccion-fotos div .columna-sec41 img, .seccion-fotos div .columna-sec42 img, .seccion-fotos div .columna-sec43 img, .seccion-fotos div .columna-sec44 img {
+    min-height: 100%;
+  }
 }
 .seccion-fotos div .columna-sec41 .informacion, .seccion-fotos div .columna-sec42 .informacion, .seccion-fotos div .columna-sec43 .informacion, .seccion-fotos div .columna-sec44 .informacion {
   position: absolute;
+  padding: 30px 30px 0px 10px;
+  top: 0px;
+  transition: all 0.3s;
+}
+.seccion-fotos div .columna-sec41 .informacion p, .seccion-fotos div .columna-sec42 .informacion p, .seccion-fotos div .columna-sec43 .informacion p, .seccion-fotos div .columna-sec44 .informacion p {
+  text-align: center;
 }
 .seccion-fotos div .columna-sec41:hover, .seccion-fotos div .columna-sec42:hover, .seccion-fotos div .columna-sec43:hover, .seccion-fotos div .columna-sec44:hover {
   color: white;
-  font-size: 0.8rem;
 }
 .seccion-fotos div .columna-sec41:hover img, .seccion-fotos div .columna-sec42:hover img, .seccion-fotos div .columna-sec43:hover img, .seccion-fotos div .columna-sec44:hover img {
   transform: translate(0%);
+}
+.seccion-fotos div .columna-sec41:hover .informacion, .seccion-fotos div .columna-sec42:hover .informacion, .seccion-fotos div .columna-sec43:hover .informacion, .seccion-fotos div .columna-sec44:hover .informacion {
+  top: 10px;
+}
+.seccion-fotos div .columna-sec41:hover .sombra, .seccion-fotos div .columna-sec42:hover .sombra, .seccion-fotos div .columna-sec43:hover .sombra, .seccion-fotos div .columna-sec44:hover .sombra {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: rgba(0, 0, 0, 0.4);
+  height: 100%;
+  width: 100%;
 }
 @media all and (max-width: 500px) {
   .seccion-fotos div .columna-sec41, .seccion-fotos div .columna-sec42, .seccion-fotos div .columna-sec43, .seccion-fotos div .columna-sec44 {
@@ -309,6 +325,8 @@
   }
   .seccion-fotos div .columna-sec41 .informacion, .seccion-fotos div .columna-sec42 .informacion, .seccion-fotos div .columna-sec43 .informacion, .seccion-fotos div .columna-sec44 .informacion {
     position: relative;
+    padding: 30px 0px;
+    text-align: center;
   }
 }
 

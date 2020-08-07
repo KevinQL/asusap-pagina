@@ -1,5 +1,5 @@
 // deshabilitar galeria hover
-let btnCerrar = document.querySelector('.btn-salir');
+let btnCerrar = document.querySelector('.btn-salir-click');
 if(btnCerrar){
     btnCerrar.addEventListener('click',function(){
         let galeria = document.querySelector(".galeria-fotos");

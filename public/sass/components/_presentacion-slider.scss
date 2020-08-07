@@ -26,5 +26,10 @@
     }
     .texto-presentacion {
         z-index: 100;
+        h2{
+            color: white;
+            text-shadow: 2px 2px 3px #e6e6e6b9;
+            font-family: 'Playfair Display SC', serif;
+        }
     }
 }
