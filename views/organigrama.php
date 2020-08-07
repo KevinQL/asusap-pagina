@@ -27,8 +27,8 @@
             <!-- SECCIÓN SALUDO ALCALDE  -->
     <section class="bg-light" id="alcalde-regidores">
         <div class="container py-4 text-center lead text-muted">
-            <h3>ASUSAP SANJERÓNIMO</h3>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus, amet.</p>
+            <h3>ASUSAP SANJERÓNIMO<br>GESTIÓN 2019-2021</h3>
+            <p>lema si hubiera</p>
         </div>
     </section>
 
@@ -41,8 +41,8 @@
                         <img src="public/images/person.png" class="rounded rounded-circle bg-light" height="220px" width="220px" alt="">
                     </a>
                     <!-- Datos alcalde -->
-                    <h4>Lorem, ipsum dolor.</h4>
-                    <span>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</span>
+                    <h4>Presidente</h4>
+                    <span>Sr. ALFONSO<br>Gazani</span>
                 </div>
             </div>
 
