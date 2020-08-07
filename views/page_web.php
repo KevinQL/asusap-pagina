@@ -99,33 +99,159 @@
         <section class="seccion-servicios container my-5 text-center" id="servicios">
             <div class="row mb-5">
                 <div class="col">
-                    <h4 class="">SERVICIOS</h4>
+                    <h4 class="titulo">SERVICIOS</h4>
                 </div>                
             </div>
             <div class="row text-uppercase text-center mt-3">
                 <div class="card-servicios col-md-3">
-                    <a href="#" class="servicios-link">
+                    <a href="#" class="servicios-link" data-toggle="modal" data-target="#nuevaInstalacion_">
                         <i class="fas fa-heartbeat fa-8x"></i>
                         <p class="mt-3">Nueva instalación</p>
                     </a>
+<!-- Modal -->
+<div class="modal fade" id="nuevaInstalacion_" tabindex="-1" role="dialog" aria-labelledby="nuevaInstalacion_Label" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="nuevaInstalacion_Label">REQUISITOS PARA NUEVA INSTALACIÓN DE AGUA POTABLE DOMICILIARIA</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body text-left">
+                <ul class="lista-servicios">
+                    <li><i class="fas fa-tags"></i> 1. UN FOLDER</li>
+                    <li><i class="fas fa-tags"></i> 2. LLENAR FORMATO DE SOLICITUD</li>
+                    <li><i class="fas fa-tags"></i> 3. CERTIFICADO DE NUMERACIÓN EXPEDIDO POR EL MUNICIPIO </li>
+                    <li><i class="fas fa-tags"></i> 4. COPIA LITERAL Y/O TESTIMONIO</li>
+                    <li><i class="fas fa-tags"></i> 5. FOTO PANORÁMICO DEL PREDIO OPCIONAL</li>
+                    <li><i class="fas fa-tags"></i> 6. CROQUIS DE UBICACIÓN DEL PREDIO O PLANO INDICANDO REFERENCIA</li>
+                    <li><i class="fas fa-tags"></i> 7. FOTOCOPIA DNI DEL TITULAR</li>
+                    <li><i class="fas fa-tags"></i> 8. RECIBO DE PAGO DE INSCRIPCIÓN</li>
+                    <li><i class="fas fa-tags"></i> 9. RECIBO DE ROTURA DE PISTA EXPEDIDO POR LA MUNICIPALIDAD</li>
+                    <li><i class="fas fa-tags"></i> 10. RECIBO O CONSTANCIA DE PAGO DE DESAGUE EXPEDIDO POR LA MUNICIPALIDAD</li>
+                </ul>
+                INSCRIPCION DE AGUA POTABLE S/. 350.00  </br>
+                INCLUIDO IGV S/. 63.00 ES UN TOTAL DE S/.413.00  </br>
+                OTROS S/.  </br>
+                PONER NÚMERO DE CELULAR  </br>
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+                    <!--  -->
                 </div>
                 <div class="card-servicios col-md-3">
-                    <a href="#" class="servicios-link">
-                        <i class="fas fa-tools fa-8x"></i>
-                        <p class="mt-3">Corte y reconexión</p>                        
-                    </a>
-                </div>
-                <div class="card-servicios col-md-3">
-                    <a href="#" class="servicios-link">
+                    <a href="#" class="servicios-link" data-toggle="modal" data-target="#razonSocial_">
                         <i class="fas fa-seedling fa-8x"></i>
+                        <p class="mt-3">Nombre o Razón social</p>
+                        <!-- <p class="mt-3">Corte y reconexión</p> -->
+                    </a>
+<!-- Modal -->
+<div class="modal fade" id="razonSocial_" tabindex="-1" role="dialog" aria-labelledby="razonSocial_Label" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="razonSocial_Label">REQUICITOS PARA CAMBIAR NOMBRE  O RAZON SOCIAL</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body text-left">
+
+                <ul>                
+                    <li><i class="fas fa-tags"></i> SOLICITUD PIDIENDO CAMBIO DE NOMBRE  O RAZON SOCIAL </li>
+                    <li><i class="fas fa-tags"></i> COPIA DE TITULO DE PROPIDAD  O COMPRA VENTA A NOMBRE DEL SOLICITANTE </li>
+                    <li><i class="fas fa-tags"></i> COPIA DNI</li>
+                    <li><i class="fas fa-tags"></i> RECIBO CANCELADO A NOMBRE DEL TITULAR</li>
+                </ul>
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+                    <!--  -->
+                </div>
+                <div class="card-servicios col-md-3">
+                    <a href="#" class="servicios-link" data-toggle="modal" data-target="#averas_">                        
+                        <i class="fas fa-tools fa-8x"></i>
                         <p class="mt-3">Averías de redes tendidas</p>                        
                     </a>
+
+<!-- Modal -->
+<div class="modal fade" id="averas_" tabindex="-1" role="dialog" aria-labelledby="averas_Label" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="averas_Label">AVERÍAS DE REDES TENDIDAS</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body text-left">
+
+                <ul>                
+                    <li><i class="fas fa-tags"></i> Lorem, ipsum dolor.</li>
+                    <li><i class="fas fa-tags"></i> Lorem, ipsum dolor.</li>
+                    <li><i class="fas fa-tags"></i> Lorem, ipsum dolor.</li>
+                    <li><i class="fas fa-tags"></i> 
+                        <a href="public/files/solicitudes/SOLICITUD_DE_ATENCION.pdf" target="_blank" download>
+                            <i class="fas fa-cloud-download-alt"></i> DESGARGAR ARCHIVO <i class="fas fa-file-pdf"></i>
+                        </a>
+                    </li>
+                </ul>
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
                 </div>
                 <div class="card-servicios col-md-3">
-                    <a href="#" class="servicios-link">
+                    <a href="#" class="servicios-link" data-toggle="modal" data-target="#gasfiteria_">
                         <i class="fas fa-flask fa-8x"></i>
-                        <p class="mt-3">Gasfitería</p>                        
+                        <p class="mt-3">GASFITERÍA</p>                        
                     </a>
+
+<!-- Modal -->
+<div class="modal fade" id="gasfiteria_" tabindex="-1" role="dialog" aria-labelledby="gasfiteria_Label" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="gasfiteria_Label">GASFITERÍA</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body text-left">
+
+                <ul>                
+                    <li><i class="fas fa-tags"></i> Lorem, ipsum dolor.</li>
+                    <li><i class="fas fa-tags"></i> Lorem, ipsum dolor.</li>
+                    <li><i class="fas fa-tags"></i> Lorem, ipsum dolor.</li>
+                    <li><i class="fas fa-tags"></i> Lorem, ipsum dolor.</li>
+                </ul>
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
                 </div>                
             </div>
 

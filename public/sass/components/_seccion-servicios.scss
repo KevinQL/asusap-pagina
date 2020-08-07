@@ -7,6 +7,7 @@
     //     }
     // }
 
+
     .card-servicios{
         // background-color: indianred;
         .servicios-link{
@@ -50,4 +51,12 @@
             }
         }
     }
+
+    //modal de indicaciones
+    .modal{
+        ul li{
+            list-style: none;
+        }
+    }
+
 }

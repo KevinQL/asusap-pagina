@@ -257,6 +257,9 @@
 .seccion-servicios .card-servicios [class*=servicios-link]:hover p {
   transform: translateY(10px);
 }
+.seccion-servicios .modal ul li {
+  list-style: none;
+}
 
 .seccion-fotos div {
   overflow: hidden;
