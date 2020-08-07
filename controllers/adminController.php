@@ -67,7 +67,7 @@
 
                 }else {
 
-                    $arrayPaginas_sinSession = ['noticia'];
+                    $arrayPaginas_sinSession = ['noticia','organigrama'];
                     
                     if(in_array($pagina, $arrayPaginas_sinSession, true)){
 

@@ -8,4 +8,17 @@ var servicios = new SmoothScroll('a[href*="#servicios"]', {
     offset: 150
 });
 
+// var URLactual = window.location;
+// alert(URLactual);
+var URLactual = window.location.hash;
+
+if(URLactual !== "" && (URLactual === "#quienessomos" || URLactual === "#servicios") ){
+    setTimeout(() => {
+        let btsomos = document.querySelector(`a[href*="${URLactual}"]`);
+        btsomos.click();
+    }, 100);
+}
+
+
+
 // var anchor = document.querySelector('a[href*="#"]');
