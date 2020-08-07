@@ -36,7 +36,7 @@
             <h5>NOS PREOCUPAMOS POR QUE TENGAS EL MEJOR SERVICIO DE AGUA POTABLE</h5>
         </div>
 
-        <div class="seccion-inv-y-proy container-fluid px-5 mb-5">
+        <div class="seccion-inv-y-proy container-fluid px-5 mb-5" id="quienessomos">
             <div class="row text-center">
                 <div class="card-k col-md-3">
                     <img src="public/images/cm-1.svg" alt="logo" class="" height="150px">
@@ -443,20 +443,17 @@
                             <li>Lorem ipsum dolor sit.</li>
                         </ul>
                     </div>
-                    <div class="col-md-3">
-                        <h3>PROYECTOS</h3>
-                        <ul>
-                            <li>Lorem, ipsum dolor.</li>
-                            <li>Lorem ipsum dolor sit.</li>
-                            <li>Lorem ipsum dolor sit.</li>
-                            <li>Lorem ipsum dolor sit.</li>
-                            <li>Lorem ipsum dolor sit.</li>
-                            <li>Lorem ipsum dolor sit.</li>
-                            <li>Lorem ipsum dolor sit.</li>
-                        </ul>
+                    <div class="col-md-4 text-center">
+                        <h3 class="text-left">REDES</h3>
+
+                        <iframe width="100%" height="450" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FRezuam-600773577055743%2F&tabs=timeline&width=300&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
+                        <!-- <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FSute-Andahuaylas-Oficial-118870519500684%2F&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=false&appId" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe> -->
+                
                     </div>
 
-                    <div class="col-md-6 text-center p-0">
+                    <div class="col-md-5 p-0">
+                        <h3>UBICANOS</h3>
                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1635.657618545781!2d-73.36477804209281!3d-13.65080709760321!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x916d29fc303d70fd%3A0x33e373f4bb798822!2sASUSAP!5e1!3m2!1ses!2spe!4v1595195295027!5m2!1ses!2spe" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
                     </div>
 
