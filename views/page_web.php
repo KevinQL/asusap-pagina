@@ -36,7 +36,7 @@
             <h5>NOS PREOCUPAMOS POR QUE TENGAS EL MEJOR SERVICIO DE AGUA POTABLE</h5>
         </div>
 
-        <div class="seccion-inv-y-proy container-fluid px-5 mb-5">
+        <div class="seccion-inv-y-proy container-fluid px-5 mb-5" id="quienessomos">
             <div class="row text-center">
                 <div class="card-k col-md-3">
                     <img src="public/images/cm-1.svg" alt="logo" class="" height="150px">
@@ -99,33 +99,159 @@
         <section class="seccion-servicios container my-5 text-center" id="servicios">
             <div class="row mb-5">
                 <div class="col">
-                    <h4 class="">SERVICIOS</h4>
+                    <h4 class="titulo">SERVICIOS</h4>
                 </div>                
             </div>
             <div class="row text-uppercase text-center mt-3">
                 <div class="card-servicios col-md-3">
-                    <a href="#" class="servicios-link">
+                    <a href="#" class="servicios-link" data-toggle="modal" data-target="#nuevaInstalacion_">
                         <i class="fas fa-heartbeat fa-8x"></i>
                         <p class="mt-3">Nueva instalación</p>
                     </a>
+<!-- Modal -->
+<div class="modal fade" id="nuevaInstalacion_" tabindex="-1" role="dialog" aria-labelledby="nuevaInstalacion_Label" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="nuevaInstalacion_Label">REQUISITOS PARA NUEVA INSTALACIÓN DE AGUA POTABLE DOMICILIARIA</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body text-left">
+                <ul class="lista-servicios">
+                    <li><i class="fas fa-tags"></i> 1. UN FOLDER</li>
+                    <li><i class="fas fa-tags"></i> 2. LLENAR FORMATO DE SOLICITUD</li>
+                    <li><i class="fas fa-tags"></i> 3. CERTIFICADO DE NUMERACIÓN EXPEDIDO POR EL MUNICIPIO </li>
+                    <li><i class="fas fa-tags"></i> 4. COPIA LITERAL Y/O TESTIMONIO</li>
+                    <li><i class="fas fa-tags"></i> 5. FOTO PANORÁMICO DEL PREDIO OPCIONAL</li>
+                    <li><i class="fas fa-tags"></i> 6. CROQUIS DE UBICACIÓN DEL PREDIO O PLANO INDICANDO REFERENCIA</li>
+                    <li><i class="fas fa-tags"></i> 7. FOTOCOPIA DNI DEL TITULAR</li>
+                    <li><i class="fas fa-tags"></i> 8. RECIBO DE PAGO DE INSCRIPCIÓN</li>
+                    <li><i class="fas fa-tags"></i> 9. RECIBO DE ROTURA DE PISTA EXPEDIDO POR LA MUNICIPALIDAD</li>
+                    <li><i class="fas fa-tags"></i> 10. RECIBO O CONSTANCIA DE PAGO DE DESAGUE EXPEDIDO POR LA MUNICIPALIDAD</li>
+                </ul>
+                INSCRIPCION DE AGUA POTABLE S/. 350.00  </br>
+                INCLUIDO IGV S/. 63.00 ES UN TOTAL DE S/.413.00  </br>
+                OTROS S/.  </br>
+                PONER NÚMERO DE CELULAR  </br>
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+                    <!--  -->
                 </div>
                 <div class="card-servicios col-md-3">
-                    <a href="#" class="servicios-link">
-                        <i class="fas fa-tools fa-8x"></i>
-                        <p class="mt-3">Corte y reconexión</p>                        
-                    </a>
-                </div>
-                <div class="card-servicios col-md-3">
-                    <a href="#" class="servicios-link">
+                    <a href="#" class="servicios-link" data-toggle="modal" data-target="#razonSocial_">
                         <i class="fas fa-seedling fa-8x"></i>
+                        <p class="mt-3">Nombre o Razón social</p>
+                        <!-- <p class="mt-3">Corte y reconexión</p> -->
+                    </a>
+<!-- Modal -->
+<div class="modal fade" id="razonSocial_" tabindex="-1" role="dialog" aria-labelledby="razonSocial_Label" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="razonSocial_Label">REQUICITOS PARA CAMBIAR NOMBRE  O RAZON SOCIAL</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body text-left">
+
+                <ul>                
+                    <li><i class="fas fa-tags"></i> SOLICITUD PIDIENDO CAMBIO DE NOMBRE  O RAZON SOCIAL </li>
+                    <li><i class="fas fa-tags"></i> COPIA DE TITULO DE PROPIDAD  O COMPRA VENTA A NOMBRE DEL SOLICITANTE </li>
+                    <li><i class="fas fa-tags"></i> COPIA DNI</li>
+                    <li><i class="fas fa-tags"></i> RECIBO CANCELADO A NOMBRE DEL TITULAR</li>
+                </ul>
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+                    <!--  -->
+                </div>
+                <div class="card-servicios col-md-3">
+                    <a href="#" class="servicios-link" data-toggle="modal" data-target="#averas_">                        
+                        <i class="fas fa-tools fa-8x"></i>
                         <p class="mt-3">Averías de redes tendidas</p>                        
                     </a>
+
+<!-- Modal -->
+<div class="modal fade" id="averas_" tabindex="-1" role="dialog" aria-labelledby="averas_Label" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="averas_Label">AVERÍAS DE REDES TENDIDAS</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body text-left">
+
+                <ul>                
+                    <li><i class="fas fa-tags"></i> Lorem, ipsum dolor.</li>
+                    <li><i class="fas fa-tags"></i> Lorem, ipsum dolor.</li>
+                    <li><i class="fas fa-tags"></i> Lorem, ipsum dolor.</li>
+                    <li><i class="fas fa-tags"></i> 
+                        <a href="public/files/solicitudes/SOLICITUD_DE_ATENCION.pdf" target="_blank" download>
+                            <i class="fas fa-cloud-download-alt"></i> DESGARGAR ARCHIVO <i class="fas fa-file-pdf"></i>
+                        </a>
+                    </li>
+                </ul>
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
                 </div>
                 <div class="card-servicios col-md-3">
-                    <a href="#" class="servicios-link">
+                    <a href="#" class="servicios-link" data-toggle="modal" data-target="#gasfiteria_">
                         <i class="fas fa-flask fa-8x"></i>
-                        <p class="mt-3">Gasfitería</p>                        
+                        <p class="mt-3">GASFITERÍA</p>                        
                     </a>
+
+<!-- Modal -->
+<div class="modal fade" id="gasfiteria_" tabindex="-1" role="dialog" aria-labelledby="gasfiteria_Label" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="gasfiteria_Label">GASFITERÍA</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body text-left">
+
+                <ul>                
+                    <li><i class="fas fa-tags"></i> Lorem, ipsum dolor.</li>
+                    <li><i class="fas fa-tags"></i> Lorem, ipsum dolor.</li>
+                    <li><i class="fas fa-tags"></i> Lorem, ipsum dolor.</li>
+                    <li><i class="fas fa-tags"></i> Lorem, ipsum dolor.</li>
+                </ul>
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
                 </div>                
             </div>
 
@@ -317,20 +443,17 @@
                             <li>Lorem ipsum dolor sit.</li>
                         </ul>
                     </div>
-                    <div class="col-md-3">
-                        <h3>PROYECTOS</h3>
-                        <ul>
-                            <li>Lorem, ipsum dolor.</li>
-                            <li>Lorem ipsum dolor sit.</li>
-                            <li>Lorem ipsum dolor sit.</li>
-                            <li>Lorem ipsum dolor sit.</li>
-                            <li>Lorem ipsum dolor sit.</li>
-                            <li>Lorem ipsum dolor sit.</li>
-                            <li>Lorem ipsum dolor sit.</li>
-                        </ul>
+                    <div class="col-md-4 text-center">
+                        <h3 class="text-left">REDES</h3>
+
+                        <iframe width="100%" height="450" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FRezuam-600773577055743%2F&tabs=timeline&width=300&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
+                        <!-- <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FSute-Andahuaylas-Oficial-118870519500684%2F&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=false&appId" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe> -->
+                
                     </div>
 
-                    <div class="col-md-6 text-center p-0">
+                    <div class="col-md-5 p-0">
+                        <h3>UBICANOS</h3>
                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1635.657618545781!2d-73.36477804209281!3d-13.65080709760321!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x916d29fc303d70fd%3A0x33e373f4bb798822!2sASUSAP!5e1!3m2!1ses!2spe!4v1595195295027!5m2!1ses!2spe" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
                     </div>
 
