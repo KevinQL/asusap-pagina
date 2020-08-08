@@ -19,17 +19,50 @@
 
         <hr class="bg-info py-1 m-0 border-1">
 
-        <section class="slider-presentacion bg-dark ">
-            <!--
-            <img src="public/img3.jpg" alt="">                    
-            -->
+        <!-- PRESENTACIÓN DE UNA SOLA IMAGEN  -->
+        <!-- <section class="slider-presentacion bg-dark ">
             <div class="fondo">
             </div>
             <div class="texto-presentacion text-center">
-                <h2 class="text-uppercase" style="font-size: 60px">ASOCIACIÓN DE USUARIOS DE AGUA POTABLE SAN JERÓNIMO<br>ASUSAP</h2>
-                <!-- <button class="btn btn-lg btn-outline-info px-5 mt-5 px-5 py-3 text-uppercase text-bold">más información</button> -->
+                <h2 class="text-uppercase">ASOCIACIÓN DE USUARIOS DE AGUA POTABLE SAN JERÓNIMO<br>ASUSAP</h2>                
+                <h2 class="text-uppercase" style="font-size: 60px">ASOCIACIÓN DE USUARIOS DE AGUA POTABLE SAN JERÓNIMO<br>ASUSAP</h2>                
             </div>
+        </section> -->
+
+        <!-- SLIDER PRESENTACIÓN NUEVO -->
+        <section class="slider-presentacion seccion-slider">
+
+            <div class="glide2 sle2">
+                <div data-glide-el="track" class="glide__track">
+                <ul class="glide__slides">
+                    <li class="glide__slide">
+                        <div class="texto-presentacion">
+                            <h2 class="text-uppercase px-3" style="font-size: 40px">ASOCIACIÓN DE USUARIOS DE AGUA POTABLE SAN JERÓNIMO<br>ASUSAP</h2>                
+                        </div>
+                        <img src="public/images/asusap/oficina1.jpg" class="" alt="...">
+                    </li>
+                    <li class="glide__slide">
+                        <div class="texto-presentacion">
+                            <h2 class="text-uppercase px-3" style="font-size: 40px">ASOCIACIÓN DE USUARIOS DE AGUA POTABLE SAN JERÓNIMO<br>ASUSAP</h2>                
+                        </div>
+                        <img src="public/images/asusap/reservorio1.jpg" class="" alt="...">
+                    </li>
+                </ul>
+                </div>
+        
+                <div class="glide__arrows" data-glide-el="controls">
+                    <button class="glide__arrow glide__arrow--left" data-glide-dir="<"> < </button>
+                    <button class="glide__arrow glide__arrow--right" data-glide-dir=">"> > </button>
+                </div>
+        
+                <div class="glide__bullets" data-glide-el="controls[nav]">
+                    <button class="glide__bullet" data-glide-dir="=0"></button>
+                    <button class="glide__bullet" data-glide-dir="=1"></button> 
+                </div>
+            </div> 
+
         </section>
+
 
         <div class="text-center bg-info p-3 mb-4 text-white lead">
             <h5>NOS PREOCUPAMOS POR QUE TENGAS EL MEJOR SERVICIO DE AGUA POTABLE</h5>
