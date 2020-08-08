@@ -1,21 +1,24 @@
 
 .slider-presentacion{
-    height: 90vh;
+    display: block;
     position:relative;
     overflow:hidden;
-
-    background-image: url(../images/asusap/oficina2.jpg);
-    // img4
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
+    height: 90vh;
+    width: 100%;
+    // padding: 0px;
+    // margin:0px;
+    // background-image: url(../images/asusap/oficina2.jpg);
+    // // img4
+    // background-position: center;
+    // background-repeat: no-repeat;
+    // background-size: cover;
+    // background-attachment: fixed;
     
     z-index: 1;
 
-    display:flex;
-    flex-direction: column;
-    justify-content: center;
+    // display:flex;
+    // flex-direction: column;
+    // justify-content: center;
 
     .fondo{
         position: absolute;
@@ -24,12 +27,70 @@
         background-color: rgba($color: #272727, $alpha: .5);
         z-index: 3;
     }
-    .texto-presentacion {
-        z-index: 100;
-        h2{
-            color: white;
-            text-shadow: 2px 2px 3px #e6e6e6b9;
-            font-family: 'Playfair Display SC', serif;
+    .sle2{
+        display: block;
+        width: 100vw;
+        height: 90vh;
+        overflow: hidden;
+
+        @media all and ( max-width:500px ){
+            height: auto;
+            width: auto;
         }
+
+        img{
+            display: block;
+            width: 100vw;
+            @media all and ( max-width:500px ){
+                // height: 100%;
+                height: 90vh;
+            }
+        }
+        .texto-presentacion {
+            position: absolute;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+    
+            width: 100vw;
+            height: 90vh;
+            overflow: hidden;
+            // top: 0px;
+            background-color: rgba(53, 53, 53, 0.37);
+            z-index: 1000;   
+            h2{
+                display: block;
+                color: white;
+                text-align: center;
+                text-shadow: 2px 2px 3px #e6e6e6b9;
+                font-family: 'Playfair Display SC', serif;
+            }
     }
+    }
+
+    //SLIDER PRESENTACION
+    // .sle2{
+    //     position: relative;
+    //     display: block;
+    //     height: 100%;  
+    //     img{
+    //         height: 100%;
+    //         width: 100%;
+    //     }     
+    //     .texto-presentacion{
+    //         position: absolute;
+    //         top:0px;
+    //         display: flex;
+    //         justify-content: center;
+    //         align-items: center;
+    //         width: 100vw;
+    //         height: 90vh;
+    //         background-color: tomato;
+    //         h1{
+    //             display: block;
+    //             width: 100%;
+    //         }
+    //     } 
+    // }
+
 }
