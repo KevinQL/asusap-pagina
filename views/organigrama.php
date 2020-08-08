@@ -27,8 +27,8 @@
             <!-- SECCIÓN SALUDO ALCALDE  -->
     <section class="bg-light" id="alcalde-regidores">
         <div class="container py-4 text-center lead text-muted">
-            <h3>ASUSAP SANJERÓNIMO</h3>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus, amet.</p>
+            <h3>ASUSAP SANJERÓNIMO<br>GESTIÓN 2019-2021</h3>
+            <p>lema si hubiera</p>
         </div>
     </section>
 
@@ -37,12 +37,12 @@
         <div class="container py-3">
             <div class="">
                 <div class="text-center">
-                    <a href="#">
+                    
                         <img src="public/images/person.png" class="rounded rounded-circle bg-light" height="220px" width="220px" alt="">
-                    </a>
+                    
                     <!-- Datos alcalde -->
-                    <h4>Lorem, ipsum dolor.</h4>
-                    <span>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</span>
+                    <h4>Presidente</h4>
+                    <span>ALFONSO<br>Galindo Gazani</span>
                 </div>
             </div>
 
@@ -50,33 +50,33 @@
                 <div class="container">
                     <div class="row py-3">
                         <div class="col-md-4">
-                            <a href="#">
+                            
                                 <img src="public/images/person.png" class="rounded-circle rounded bg-light" height="200px" width="190px" alt="">
-                            </a>
+                            
                             <!-- Datos básicos regidor -->
                             <div>
-                                <h4>Lorem, ipsum dolor.</h4>                                
-                                <span>Lorem, ipsum dolor. Lorem ipsum dolor sit amet consectetur.</span>
+                                <h4>Vice Presidente</h4>
+                                <span>JULIO<br>Palacios Montoya</span>
                             </div>
                         </div>
                         <div class="col-md-4">
-                            <a href="#">
+                            
                                 <img src="public/images/person.png" class="rounded-circle rounded bg-light" height="200px" width="190px" alt="">
-                            </a>
+                            
                             <!-- Datos básicos regidor -->
                             <div>
-                                <h4>Lorem, ipsum dolor.</h4>                                
-                                <span>Lorem, ipsum dolor. Lorem ipsum dolor sit amet consectetur.</span>
+                                <h4>Secretario</h4>                                
+                                <span>JUAN GERARDO<br>Saldivar Rivas</span>
                             </div>
                         </div>
                         <div class="col-md-4">
-                            <a href="#">
+                            
                                 <img src="public/images/person.png" class="rounded-circle rounded bg-light" height="200px" width="190px" alt="">
-                            </a>
+                            
                             <!-- Datos básicos regidor -->
                             <div>
-                                <h4>Lorem, ipsum dolor.</h4>                                
-                                <span>Lorem, ipsum dolor. Lorem ipsum dolor sit amet consectetur.</span>
+                                <h4>Tesosera</h4>                                
+                                <span>ZENOBIA DIONICIA<br>Polanco de Chiclla</span>
                             </div>
 
                         </div>
@@ -84,35 +84,35 @@
 
                     <div class="row py-3">
                         <div class="col-md-4">
-                            <a href="#">
+                            
                                 <img src="public/images/person.png" class="rounded-circle rounded bg-light" height="200px" width="190px" alt="">
-                            </a>
+                            
                             <!-- Datos básicos regidor -->
                             <div>
-                                <h4>Lorem, ipsum dolor.</h4>                                
-                                <span>Lorem, ipsum dolor. Lorem ipsum dolor sit amet consectetur.</span>
+                                <h4>Fiscal</h4>                                
+                                <span>BEATRIZ<br>Osccorima Pozo</span>
                             </div>
                         </div>
 
                         <div class="col-md-4">
-                            <a href="#">
+                            
                                 <img src="public/images/person.png" class="rounded-circle rounded bg-light" height="200px" width="190px" alt="">
-                            </a>
+                            
                             <!-- Datos básicos regidor -->
                             <div>
-                                <h4>Lorem, ipsum dolor.</h4>                                
-                                <span>Lorem, ipsum dolor. Lorem ipsum dolor sit amet consectetur.</span>
+                                <h4>Vocal I</h4>                                
+                                <span>ELIAS<br>Rodriguez Altamirano</span>
                             </div>
                         </div>
 
                         <div class="col-md-4">
-                            <a href="#">
+                            
                                 <img src="public/images/person.png" class="rounded-circle rounded bg-light" height="200px" width="190px" alt="">
-                            </a>
+                            
                             <!-- Datos básicos regidor -->
                             <div>
-                                <h4>Lorem, ipsum dolor.</h4>                                
-                                <span>Lorem, ipsum dolor. Lorem ipsum dolor sit amet consectetur.</span>
+                                <h4>vocal II</h4>                                
+                                <span>TEOFILO<br>Arévalo Siancas</span>
                             </div>
                         </div>
                     </div>
