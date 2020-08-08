@@ -23,9 +23,9 @@
         <!-- <section class="slider-presentacion bg-dark ">
             <div class="fondo">
             </div>
-
             <div class="texto-presentacion text-center">
                 <h2 class="text-uppercase">ASOCIACIÓN DE USUARIOS DE AGUA POTABLE SAN JERÓNIMO<br>ASUSAP</h2>                
+                <h2 class="text-uppercase" style="font-size: 60px">ASOCIACIÓN DE USUARIOS DE AGUA POTABLE SAN JERÓNIMO<br>ASUSAP</h2>                
             </div>
         </section> -->
 
@@ -37,13 +37,13 @@
                 <ul class="glide__slides">
                     <li class="glide__slide">
                         <div class="texto-presentacion">
-                            <h2 class="text-uppercase">ASOCIACIÓN DE USUARIOS DE AGUA POTABLE SAN JERÓNIMO<br>ASUSAP</h2>                
+                            <h2 class="text-uppercase px-3" style="font-size: 40px">ASOCIACIÓN DE USUARIOS DE AGUA POTABLE SAN JERÓNIMO<br>ASUSAP</h2>                
                         </div>
                         <img src="public/images/asusap/oficina1.jpg" class="" alt="...">
                     </li>
                     <li class="glide__slide">
                         <div class="texto-presentacion">
-                            <h2 class="text-uppercase">ASOCIACIÓN DE USUARIOS DE AGUA POTABLE SAN JERÓNIMO<br>ASUSAP</h2>                
+                            <h2 class="text-uppercase px-3" style="font-size: 40px">ASOCIACIÓN DE USUARIOS DE AGUA POTABLE SAN JERÓNIMO<br>ASUSAP</h2>                
                         </div>
                         <img src="public/images/asusap/reservorio1.jpg" class="" alt="...">
                     </li>
@@ -74,25 +74,25 @@
                     <img src="public/images/cm-1.svg" alt="logo" class="" height="150px">
                     <h4>HISTORIA</h4>
                     <hr class="line-seccion">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem, expedita! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem odit omnis perferendis, laboriosam obcaecati reiciendis explicabo similique architecto impedit mollitia.</p>
+                    <p>Contenido aqui</p>
                 </div>
                 <div class="card-k col-md-3">
                     <img src="public/images/cm-2.svg" alt="logo" class="" height="150px">
                     <h4>MISIÓN</h4>
                     <hr class="line-seccion">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem, expedita! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem odit omnis perferendis, laboriosam obcaecati reiciendis explicabo similique architecto impedit mollitia.</p>
+                    <p>Contenido aqui</p>
                 </div>
                 <div class="card-k col-md-3">
                     <img src="public/images/cm-3.svg" alt="logo" class="" height="150px">
                     <h4>VISIÓN</h4>
                     <hr class="line-seccion">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem, expedita! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem odit omnis perferendis, laboriosam obcaecati reiciendis explicabo similique architecto impedit mollitia.</p>
+                    <p>Contenido aqui</p>
                 </div>
                 <div class="card-k col-md-3">
                     <img src="public/images/cm-4.svg" alt="logo" class="" height="150px">
                     <h4>CONVENIOS</h4>
                     <hr class="line-seccion">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem, expedita! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem odit omnis perferendis, laboriosam obcaecati reiciendis explicabo similique architecto impedit mollitia.</p>
+                    <p>Contenido aqui</p>
                 </div>
             </div>
         </div>
@@ -105,23 +105,23 @@
             <div class="container text-center text-white lead">
                 <div class="row">
                     <div class="col-md-12 mb-4">
-                        <h2>Calidad con Certificacion LOREM</h2>
+                        <h2>Calidad con Certificacion de A.N.A</h2>
                     </div>
                     <div class="col-md-3">
                         <p class="display-3">100%</p>
-                        <p>Lorem ipsum dolor sit amet consectetur. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi, ex.</p>
+                        <p>Contenido aqui</p>
                     </div>
                     <div class="col-md-3">
                         <p class="display-3">100%</p>
-                        <p>Lorem ipsum dolor sit amet consectetur.</p>
+                        <p>Contenido aqui</p>
                     </div>
                     <div class="col-md-3">
                         <p class="display-3">100%</p>
-                        <p>Lorem ipsum dolor sit amet consectetur.</p>
+                        <p>Contenido aqui</p>
                     </div>
                     <div class="col-md-3">
                         <p class="display-3">100%</p>
-                        <p>Lorem ipsum dolor sit amet consectetur.</p>
+                        <p>Contenido aqui</p>
                     </div>
                 </div>
 
@@ -232,9 +232,9 @@
             <div class="modal-body text-left">
 
                 <ul>                
-                    <li><i class="fas fa-tags"></i> Lorem, ipsum dolor.</li>
-                    <li><i class="fas fa-tags"></i> Lorem, ipsum dolor.</li>
-                    <li><i class="fas fa-tags"></i> Lorem, ipsum dolor.</li>
+                    <li><i class="fas fa-tags"></i> Acercarse a la oficina para informar.</li>
+                    <li><i class="fas fa-tags"></i> Solicitar servicio de gasfiteria.</li>
+                    <li><i class="fas fa-tags"></i> En caso de reconexión por 3 meses de mora el costo sera de S/ 30.00.</li>
                     <li><i class="fas fa-tags"></i> 
                         <a href="public/files/solicitudes/SOLICITUD_DE_ATENCION.pdf" target="_blank" download>
                             <i class="fas fa-cloud-download-alt"></i> DESGARGAR ARCHIVO <i class="fas fa-file-pdf"></i>
@@ -270,10 +270,10 @@
             <div class="modal-body text-left">
 
                 <ul>                
+                    <li><i class="fas fa-tags"></i> Soicitar el servicio del personal de gasfiteria en la oficina de ASUSAP</li>
+                    <!--<li><i class="fas fa-tags"></i> Lorem, ipsum dolor.</li>
                     <li><i class="fas fa-tags"></i> Lorem, ipsum dolor.</li>
-                    <li><i class="fas fa-tags"></i> Lorem, ipsum dolor.</li>
-                    <li><i class="fas fa-tags"></i> Lorem, ipsum dolor.</li>
-                    <li><i class="fas fa-tags"></i> Lorem, ipsum dolor.</li>
+                    <li><i class="fas fa-tags"></i> Lorem, ipsum dolor.</li>-->
                 </ul>
 
             </div>
@@ -309,7 +309,7 @@
                     <div class="sombra"></div>
                     <div class="informacion">
                         <h2>ÑAHUIN</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos rerum libero, delectus eligendi molestiae vel voluptatem quas recusandae! Dignissimos, molestias. Veniam beatae impedit laborum modi, repellat dolore pariatur, laudantium ab, recusandae rem voluptas libero placeat. Vel architecto id excepturi delectus, culpa possimus magnam repudiandae sint quia nihil quaerat et nulla.</p>
+                        <p>Descripción de ñahuin</p>
                     </div>
                 </div>
                 <div class="col-md-3 columna-sec42 bg-primary">
@@ -317,7 +317,7 @@
                     <div class="sombra"></div>
                     <div class="informacion">
                         <h2>TRATAMIENTO</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos rerum libero, delectus eligendi molestiae vel voluptatem quas recusandae! Dignissimos, molestias. Veniam beatae impedit laborum modi, repellat dolore pariatur, laudantium ab, recusandae rem voluptas libero placeat. Vel architecto id excepturi delectus, culpa possimus magnam repudiandae sint quia nihil quaerat et nulla.</p>
+                        <p>tratamiento de ñahuin</p>
                     </div>
                 </div>
                 <div class="col-md-3 columna-sec43 bg-danger">
@@ -325,7 +325,7 @@
                     <div class="sombra"></div>
                     <div class="informacion">
                         <h2>HUASIPARA</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos rerum libero, delectus eligendi molestiae vel voluptatem quas recusandae! Dignissimos, molestias. Veniam beatae impedit laborum modi, repellat dolore pariatur, laudantium ab, recusandae rem voluptas libero placeat. Vel architecto id excepturi delectus, culpa possimus magnam repudiandae sint quia nihil quaerat et nulla.</p>
+                        <p>Descripción de huasipara</p>
                     </div>
                 </div>
                 <div class="col-md-3 columna-sec44 bg-warning">
@@ -333,7 +333,7 @@
                     <div class="sombra"></div>
                     <div class="informacion">
                         <h2>TRATAMIENTO</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos rerum libero, delectus eligendi molestiae vel voluptatem quas recusandae! Dignissimos, molestias. Veniam beatae impedit laborum modi, repellat dolore pariatur, laudantium ab, recusandae rem voluptas libero placeat. Vel architecto id excepturi delectus, culpa possimus magnam repudiandae sint quia nihil quaerat et nulla.</p>
+                        <p>tratamiento de huasipara</p>
                     </div>
                 </div>
             </div>
@@ -472,16 +472,16 @@
             <div class="container">
                 <div class="row text-white">
                     <div class="col-md-3">
-                        <h3>SOMOS</h3>
+                        <h3>CONTACTANOS</h3>
                         <ul>
-                            <li>Lorem, ipsum dolor.</li>
-                            <li>Lorem ipsum dolor sit.</li>
-                            <li>Lorem ipsum dolor sit.</li>
-                            <li>Lorem ipsum dolor sit.</li>
+                            <li>ASUSAP</li>
+                            <li>Jr. 28 de Julio 221</li>
+                            <li>Tel. 083 797 874</li>
+                            <li>Atención al usuario</li>
                         </ul>
                     </div>
                     <div class="col-md-4 text-center">
-                        <h3 class="text-left">REDES</h3>
+                        <h3 class="text-left">SECCIÓN SOCIAL</h3>
 
                         <iframe width="100%" height="450" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FRezuam-600773577055743%2F&tabs=timeline&width=300&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
