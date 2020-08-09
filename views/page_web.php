@@ -105,19 +105,19 @@
             <div class="container text-center text-white lead">
                 <div class="row">
                     <div class="col-md-12 mb-4">
-                        <h2>Calidad con Certificacion de A.N.A</h2>
+                        <h2>Calidad con Certificacion por la DISA</h2>
                     </div>
                     <div class="col-md-3">
                         <p class="display-3">100%</p>
-                        <p>Contenido aqui</p>
+                        <p>Apto para el consumo humano</p>
                     </div>
                     <div class="col-md-3">
                         <p class="display-3">100%</p>
-                        <p>Contenido aqui</p>
+                        <p>precencia de cloro residual</p>
                     </div>
                     <div class="col-md-3">
                         <p class="display-3">100%</p>
-                        <p>Contenido aqui</p>
+                        <p>libre de coliformes fecales</p>
                     </div>
                     <div class="col-md-3">
                         <p class="display-3">100%</p>
@@ -155,18 +155,19 @@
                     <li><i class="fas fa-tags"></i> 1. UN FOLDER</li>
                     <li><i class="fas fa-tags"></i> 2. LLENAR FORMATO DE SOLICITUD</li>
                     <li><i class="fas fa-tags"></i> 3. CERTIFICADO DE NUMERACIÓN EXPEDIDO POR EL MUNICIPIO </li>
-                    <li><i class="fas fa-tags"></i> 4. COPIA LITERAL Y/O TESTIMONIO</li>
+                    <li><i class="fas fa-tags"></i> 4. COPIA LITERAL Y/O TESTIMONIO DE COMPRA DE TERRENO</li>
                     <li><i class="fas fa-tags"></i> 5. FOTO PANORÁMICO DEL PREDIO OPCIONAL</li>
                     <li><i class="fas fa-tags"></i> 6. CROQUIS DE UBICACIÓN DEL PREDIO O PLANO INDICANDO REFERENCIA</li>
                     <li><i class="fas fa-tags"></i> 7. FOTOCOPIA DNI DEL TITULAR</li>
-                    <li><i class="fas fa-tags"></i> 8. RECIBO DE PAGO DE INSCRIPCIÓN</li>
-                    <li><i class="fas fa-tags"></i> 9. RECIBO DE ROTURA DE PISTA EXPEDIDO POR LA MUNICIPALIDAD</li>
-                    <li><i class="fas fa-tags"></i> 10. RECIBO O CONSTANCIA DE PAGO DE DESAGUE EXPEDIDO POR LA MUNICIPALIDAD</li>
+                    <li><i class="fas fa-tags"></i> 8. RECIBO DE PAGO DE DERECHO DE INSCRIPCIÓN</li>
+                    <li><i class="fas fa-tags"></i> 9. AUTORIZACION DE ROTURA DE PISTA EXPEDIDO POR LA MUNICIPALIDAD</li>
+                    <li><i class="fas fa-tags"></i> 10. CONSTANCIA DE DESAGUE EXPEDIDO POR LA MUNICIPALIDAD</li>
                 </ul>
-                INSCRIPCION DE AGUA POTABLE S/. 350.00  </br>
+                DERECHO DE INSCRIPCION DE AGUA POTABLE S/. 350.00  </br>
                 INCLUIDO IGV S/. 63.00 ES UN TOTAL DE S/.413.00  </br>
                 OTROS S/.  </br>
                 PONER NÚMERO DE CELULAR  </br>
+                CORREO ELECTRONICO
 
             </div>
             <div class="modal-footer">
@@ -200,7 +201,7 @@
                     <li><i class="fas fa-tags"></i> SOLICITUD PIDIENDO CAMBIO DE NOMBRE  O RAZON SOCIAL </li>
                     <li><i class="fas fa-tags"></i> COPIA DE TITULO DE PROPIDAD  O COMPRA VENTA A NOMBRE DEL SOLICITANTE </li>
                     <li><i class="fas fa-tags"></i> COPIA DNI</li>
-                    <li><i class="fas fa-tags"></i> RECIBO CANCELADO A NOMBRE DEL TITULAR</li>
+                    <li><i class="fas fa-tags"></i> RECIBO CANCELADO A NOMBRE DEL TITULAR(NO TENER DEUDA PENDIENTE CON ASUSAP)</li>
                 </ul>
 
             </div>
@@ -271,9 +272,9 @@
 
                 <ul>                
                     <li><i class="fas fa-tags"></i> Soicitar el servicio del personal de gasfiteria en la oficina de ASUSAP</li>
-                    <!--<li><i class="fas fa-tags"></i> Lorem, ipsum dolor.</li>
-                    <li><i class="fas fa-tags"></i> Lorem, ipsum dolor.</li>
-                    <li><i class="fas fa-tags"></i> Lorem, ipsum dolor.</li>-->
+                    <li><i class="fas fa-tags"></i> ASUSAP se responsabiliza del costo del servicio de gasfiteria hasta la puerta del domicilio.</li>
+                   <li><i class="fas fa-tags"></i> Las averias internas tienen un costo adicional dependiendo del servicio brindado.</li>
+                    <!-- <li><i class="fas fa-tags"></i> Lorem, ipsum dolor.</li>-->
                 </ul>
 
             </div>
