@@ -57,8 +57,9 @@
                 //CUANDO LA SESSIÓN NO EXISTA
                 //Presentación de la página principal
 
-                $pagina = isset($_GET['pg']) && !empty($_GET['pg']) ? $_GET['pg'] : "page_web";
-                $pagina = strtolower(trim($pagina));                          
+                $pagina = ( isset($_GET['pg']) && !empty($_GET['pg']) )? $_GET['pg'] : "page_web";
+                $pagina = strtolower(trim($pagina));        
+                //modulos para administrar pagian                  
                 $arrayPaginas = ['login',"usuario_registro","admin"];
 
                 if(in_array($pagina, $arrayPaginas, true)){
@@ -67,7 +68,7 @@
 
                 }else {
 
-                    $arrayPaginas_sinSession = ['noticia','organigrama'];
+                    $arrayPaginas_sinSession = ['noticia','organigrama', 'historia'];
                     
                     if(in_array($pagina, $arrayPaginas_sinSession, true)){
 

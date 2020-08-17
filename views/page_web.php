@@ -71,10 +71,12 @@
         <div class="seccion-inv-y-proy container-fluid px-5 mb-5" id="quienessomos">
             <div class="row text-center">
                 <div class="card-k col-md-3">
-                    <img src="public/images/cm-1.svg" alt="logo" class="" height="150px">
-                    <h4>HISTORIA</h4>
-                    <hr class="line-seccion">
-                    <p>Contenido aqui</p>
+                    <a href="?pg=historia" class="link-quines-somos">
+                        <img src="public/images/cm-1.svg" alt="logo" class="" height="150px">
+                        <h4>HISTORIA</h4>
+                        <hr class="line-seccion">
+                        <p>Contenido aqui</p>
+                    </a>
                 </div>
                 <div class="card-k col-md-3">
                     <img src="public/images/cm-2.svg" alt="logo" class="" height="150px">

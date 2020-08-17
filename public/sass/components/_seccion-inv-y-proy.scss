@@ -2,6 +2,13 @@
 
 .seccion-inv-y-proy {
     .card-k{
+        // Elemento a - link 
+        .link-quines-somos{
+            text-decoration: none;
+            color:black;
+            font-style: normal;
+        }
+
         img{            
             transition: all .4s;
         }

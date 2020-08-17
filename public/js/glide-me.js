@@ -18,6 +18,7 @@ if(div_slider){
 }
 
 
+//SECCIÓN NOTICIAS
 let div_noticia = document.querySelector(".seccion-noticias");
 if(div_noticia){
     let b = new Glide('.glide', {
@@ -34,4 +35,57 @@ if(div_noticia){
         }   
     });
     b.mount()
+}
+
+
+//SECCIÓN HISTORIA - JUNTA ASUSAP
+let div_historia = document.querySelector(".seccion-historia");
+if(div_historia){
+    let historia1 = new Glide('.glide-h1', {
+        type: 'carousel',
+        startAt: 0,
+        focusAt:'center',
+        perView: 3,
+        gap:4,
+        autoplay: 5200,
+        hoverpause: true,
+        breakpoints: { //para el tamaño de pantalla
+            480:{perView: 1},
+            800:{perView:2}
+        }   
+    });
+    historia1.mount()
+
+
+    let historia2 = new Glide('.glide-h2', {
+        type: 'carousel',
+        startAt: 0,
+        focusAt:'center',
+        perView: 3,
+        gap:4,
+        autoplay: 5200,
+        hoverpause: true,
+        breakpoints: { //para el tamaño de pantalla
+            480:{perView: 1},
+            800:{perView:2}
+        }   
+    });
+    historia2.mount()
+
+
+    let historia3 = new Glide('.glide-h3', {
+        type: 'carousel',
+        startAt: 0,
+        focusAt:'center',
+        perView: 3,
+        gap:4,
+        autoplay: 5200,
+        hoverpause: true,
+        breakpoints: { //para el tamaño de pantalla
+            480:{perView: 1},
+            800:{perView:2}
+        }   
+    });
+    historia3.mount()
+
 }
