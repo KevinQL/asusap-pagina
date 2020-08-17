@@ -306,14 +306,16 @@
                     <div class="col-md-3">
                         <h3>SOMOS</h3>
                         <ul>
-                            <li>Lorem, ipsum dolor.</li>
-                            <li>Lorem ipsum dolor sit.</li>
-                            <li>Lorem ipsum dolor sit.</li>
-                            <li>Lorem ipsum dolor sit.</li>
+                            <li>ASUSAP</li>
+                            <li>Jr. 28 de Julio 221</li>
+                            <li>Tel. 083 797 874</li>
+                            <li>Atención al usuario</li>
+                            <li>Mañana: 08:00 am-12:00 pm</li>
+                            <li>Tarde: 02:00 pm-05:00 pm</li>
                         </ul>
                     </div>
                     <div class="col-md-4 text-center">
-                        <h3 class="text-left">REDES</h3>
+                        <h3 class="text-left">SECCIÓN SOCIAL</h3>
 
                         <iframe width="100%" height="450" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FRezuam-600773577055743%2F&tabs=timeline&width=300&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 

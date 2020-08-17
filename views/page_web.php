@@ -37,15 +37,15 @@
                 <ul class="glide__slides">
                     <li class="glide__slide">
                         <div class="texto-presentacion">
-                            <h2 class="text-uppercase px-3" style="font-size: 40px">ASOCIACIÓN DE USUARIOS DE AGUA POTABLE SAN JERÓNIMO<br>ASUSAP</h2>                
+                            <h2 class="text-uppercase px-3" style="font-size: 40px">ASOCIACIÓN DE USUARIOS DE AGUA POTABLE SAN JERÓNIMO<br>ANDAHUAYLAS-APURÍMAC</h2>                
                         </div>
                         <img src="public/images/asusap/oficina1.jpg" class="" alt="...">
                     </li>
                     <li class="glide__slide">
                         <div class="texto-presentacion">
-                            <h2 class="text-uppercase px-3" style="font-size: 40px">ASOCIACIÓN DE USUARIOS DE AGUA POTABLE SAN JERÓNIMO<br>ASUSAP</h2>                
+                            <h2 class="text-uppercase px-3" style="font-size: 40px">JUNTA DIRECTIVA ASUSAP<br>2019-2021</h2>                
                         </div>
-                        <img src="public/images/asusap/reservorio1.jpg" class="" alt="...">
+                        <img src="public/images/asusap/asus.jpg" class="" alt="...">
                     </li>
                 </ul>
                 </div>
@@ -75,26 +75,30 @@
                         <img src="public/images/cm-1.svg" alt="logo" class="" height="150px">
                         <h4>HISTORIA</h4>
                         <hr class="line-seccion">
-                        <p>Contenido aqui</p>
+                        <p>La primera capación del ojo del manante ñahuin para potable de uso poblacional de san jerónimo, provincia de Andahuaylas, departamento de Apurímac fueron impulsados por personalidades del distrito constituidos en una junta administrativa.</p>
                     </a>
                 </div>
                 <div class="card-k col-md-3">
                     <img src="public/images/cm-2.svg" alt="logo" class="" height="150px">
                     <h4>MISIÓN</h4>
                     <hr class="line-seccion">
-                    <p>Contenido aqui</p>
+                        <p>Somos una asociación privada con autonomía administrativa y económica, comprometida en mejorar la calidad de vida de nuestros usuarios, mediante los servicios de agua potable con responsabilidad social y ambiental.
+                            <br>Proveer servicio de saneamiento, con altos estándares de calidad para satisfacer las necesidades de la población atendida por la asociación de usuarios de agua potable de san jerónimo.
+                        </p>
                 </div>
                 <div class="card-k col-md-3">
                     <img src="public/images/cm-3.svg" alt="logo" class="" height="150px">
                     <h4>VISIÓN</h4>
                     <hr class="line-seccion">
-                    <p>Contenido aqui</p>
+                        <p>Garantizar el suministro de agua potable y el saneamiento a las próximas generaciones del pueblo de san jerónimo, satisfacer las necesidades.
+                        <br>    Mejorar a futuro inacabadamente los servicios de agua potable para todos nuestros usuarios de acuerdo al avance de la tecnología.
+                        </p>
                 </div>
                 <div class="card-k col-md-3">
                     <img src="public/images/cm-4.svg" alt="logo" class="" height="150px">
                     <h4>CONVENIOS</h4>
                     <hr class="line-seccion">
-                    <p>Contenido aqui</p>
+                    <p>*Municipalidad Distrital de San Jerónimo</p>
                 </div>
             </div>
         </div>
@@ -107,19 +111,19 @@
             <div class="container text-center text-white lead">
                 <div class="row">
                     <div class="col-md-12 mb-4">
-                        <h2>Calidad con Certificacion de A.N.A</h2>
+                        <h2>Calidad con Certificación por la D.I.S.A</h2>
                     </div>
                     <div class="col-md-3">
                         <p class="display-3">100%</p>
-                        <p>Contenido aqui</p>
+                        <p>Apto para el consumo humano</p>
                     </div>
                     <div class="col-md-3">
                         <p class="display-3">100%</p>
-                        <p>Contenido aqui</p>
+                        <p>Presencia de cloro residual</p>
                     </div>
                     <div class="col-md-3">
                         <p class="display-3">100%</p>
-                        <p>Contenido aqui</p>
+                        <p>Libre de coliformes fecales</p>
                     </div>
                     <div class="col-md-3">
                         <p class="display-3">100%</p>
@@ -157,18 +161,19 @@
                     <li><i class="fas fa-tags"></i> 1. UN FOLDER</li>
                     <li><i class="fas fa-tags"></i> 2. LLENAR FORMATO DE SOLICITUD</li>
                     <li><i class="fas fa-tags"></i> 3. CERTIFICADO DE NUMERACIÓN EXPEDIDO POR EL MUNICIPIO </li>
-                    <li><i class="fas fa-tags"></i> 4. COPIA LITERAL Y/O TESTIMONIO</li>
+                    <li><i class="fas fa-tags"></i> 4. COPIA LITERAL Y/O TESTIMONIO DE COMPRA DE TERRENO</li>
                     <li><i class="fas fa-tags"></i> 5. FOTO PANORÁMICO DEL PREDIO OPCIONAL</li>
                     <li><i class="fas fa-tags"></i> 6. CROQUIS DE UBICACIÓN DEL PREDIO O PLANO INDICANDO REFERENCIA</li>
                     <li><i class="fas fa-tags"></i> 7. FOTOCOPIA DNI DEL TITULAR</li>
-                    <li><i class="fas fa-tags"></i> 8. RECIBO DE PAGO DE INSCRIPCIÓN</li>
-                    <li><i class="fas fa-tags"></i> 9. RECIBO DE ROTURA DE PISTA EXPEDIDO POR LA MUNICIPALIDAD</li>
-                    <li><i class="fas fa-tags"></i> 10. RECIBO O CONSTANCIA DE PAGO DE DESAGUE EXPEDIDO POR LA MUNICIPALIDAD</li>
+                    <li><i class="fas fa-tags"></i> 8. RECIBO DE PAGO POR DERECHO DE INSCRIPCIÓN</li>
+                    <li><i class="fas fa-tags"></i> 9. AUTORIZACIÓN DE ROTURA DE PISTA EXPEDIDO POR LA MUNICIPALIDAD</li>
+                    <li><i class="fas fa-tags"></i> 10. CONSTANCIA DE PAGO DE DESAGUE EXPEDIDO POR LA MUNICIPALIDAD</li>
                 </ul>
-                INSCRIPCION DE AGUA POTABLE S/. 350.00  </br>
+                DERECHO DE INSCRIPCION DE AGUA POTABLE S/. 350.00  </br>
                 INCLUIDO IGV S/. 63.00 ES UN TOTAL DE S/.413.00  </br>
                 OTROS S/.  </br>
                 PONER NÚMERO DE CELULAR  </br>
+                CORREO ELECTRÓNICO
 
             </div>
             <div class="modal-footer">
@@ -202,7 +207,7 @@
                     <li><i class="fas fa-tags"></i> SOLICITUD PIDIENDO CAMBIO DE NOMBRE  O RAZON SOCIAL </li>
                     <li><i class="fas fa-tags"></i> COPIA DE TITULO DE PROPIDAD  O COMPRA VENTA A NOMBRE DEL SOLICITANTE </li>
                     <li><i class="fas fa-tags"></i> COPIA DNI</li>
-                    <li><i class="fas fa-tags"></i> RECIBO CANCELADO A NOMBRE DEL TITULAR</li>
+                    <li><i class="fas fa-tags"></i> RECIBO CANCELADO A NOMBRE DEL TITULAR(NO TENER DEUDA PENDIENTE CON ASUSAP)</li>
                 </ul>
 
             </div>
@@ -236,7 +241,7 @@
                 <ul>                
                     <li><i class="fas fa-tags"></i> Acercarse a la oficina para informar.</li>
                     <li><i class="fas fa-tags"></i> Solicitar servicio de gasfiteria.</li>
-                    <li><i class="fas fa-tags"></i> En caso de reconexión por 3 meses de mora el costo sera de S/ 30.00.</li>
+                    <li><i class="fas fa-tags"></i> En caso de reconexión por 3 meses de mora el costo será de S/ 30.00.</li>
                     <li><i class="fas fa-tags"></i> 
                         <a href="public/files/solicitudes/SOLICITUD_DE_ATENCION.pdf" target="_blank" download>
                             <i class="fas fa-cloud-download-alt"></i> DESGARGAR ARCHIVO <i class="fas fa-file-pdf"></i>
@@ -272,10 +277,10 @@
             <div class="modal-body text-left">
 
                 <ul>                
-                    <li><i class="fas fa-tags"></i> Soicitar el servicio del personal de gasfiteria en la oficina de ASUSAP</li>
-                    <!--<li><i class="fas fa-tags"></i> Lorem, ipsum dolor.</li>
-                    <li><i class="fas fa-tags"></i> Lorem, ipsum dolor.</li>
-                    <li><i class="fas fa-tags"></i> Lorem, ipsum dolor.</li>-->
+                    <li><i class="fas fa-tags"></i> Soicitar el servicio del personal de gasfiteria en la oficina de ASUSAP.</li>
+                    <li><i class="fas fa-tags"></i> asusap se responsabiliza del costo de servicio de gasfiteria hasta la puerta del domicilio.</li>
+                    <li><i class="fas fa-tags"></i> las averias internas tienen un costo adicional dependiendo del servicio prestado.</li>
+                    <!--<li><i class="fas fa-tags"></i> Lorem, ipsum dolor.</li>-->
                 </ul>
 
             </div>
@@ -378,7 +383,7 @@
         
         <section class="container my-5 seccion-noticias" id="seccion-noticias">
             <div class="col-md-12 text-center mb-3">
-                <h1>NOTICIAS</h1>
+                <h1>INFORMATIVO INSTITUCIONAL</h1>
             </div>
     
             <div class="glide sle">
@@ -388,8 +393,8 @@
                         <div class=" card-noticia">
                             <div class="borde-noticia">
                                 <img src="public/images/asusap/reservorio2.jpg" alt="" class="img-noticia">
-                                <h4 class="px-2">Lorem, ipsum dolor.</h4>
-                                <p class="px-2">Lorem, ipsum dolor sit amet consectetur adipisicing elit...</p>
+                                <h4 class="px-2">ASUSAP VIENE IMPLEMNTANDO VALVULAS REGUALDORAS</h4>
+                                <p class="px-2">A tavés de la junta directiva 2019-2021 asusap pensando en mejorar el servico para los usuarios....</p>
                                 <a href="?pg=noticia&id=1" class="btn btn-sm">VER MAS</a>                                
                             </div>
                         </div>
@@ -398,8 +403,8 @@
                         <div class=" card-noticia">
                             <div class="borde-noticia">
                                 <img src="public/images/asusap/reservorio1.jpg" alt="" class="img-noticia">
-                                <h4 class="px-2">Lorem, ipsum dolor.</h4>
-                                <p class="px-2">Lorem, ipsum dolor sit amet consectetur adipisicing elit...</p>
+                                <h4 class="px-2">ASUSAP IMPLEMENTA CÁMARAS DE SEGURIDAD</h4>
+                                <p class="px-2">Para el mejro control de los distintos reservorios la junta directiva ......</p>
                                 <a href="?pg=noticia&id=2" class="btn btn-sm">VER MAS</a>
                             </div>
                         </div>
@@ -408,8 +413,8 @@
                         <div class=" card-noticia">
                             <div class="borde-noticia">
                                 <img src="public/images/asusap/oficina1.jpg" alt="" class="img-noticia">
-                                <h4 class="px-2">Lorem, ipsum dolor.</h4>
-                                <p class="px-2">Lorem, ipsum dolor sit amet consectetur adipisicing elit...</p>
+                                <h4 class="px-2">ASUSAP MODERNIZA SU SISTEMA</h4>
+                                <p class="px-2">Con voluntad de servicio por parde la junta directica, se compro un nuevo sistema para los recibos de agua potable...</p>
                                 <a href="?pg=noticia&id=3" class="btn btn-sm">VER MAS</a>
                             </div>
                         </div>
@@ -418,10 +423,8 @@
                         <div class=" card-noticia">
                             <div class="borde-noticia">
                                 <img src="public/images/asusap/oficina2.jpg" alt="" class="img-noticia">
-                                <h4 class="px-2">Lorem, ipsum dolor.</h4>
-                                <p class="px-2">Lorem, ipsum dolor sit amet consectetur adipisicing elit...
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae totam cumque soluta provident sit, iusto iste labore, quas ipsum nobis mollitia impedit facilis et animi quae. Nostrum nesciunt velit dolore?
-                                </p>
+                                <h4 class="px-2">CONVENIO CON LAS INSTITUCIONES PARA USO DE AGUA</h4>
+                                <p class="px-2">En coordinación con la junta directiva las instituciones realizan un control en el mejro uso del agua en sus locales.....</p>
                                 <a href="?pg=noticia&id=4" class="btn btn-sm">VER MAS</a>
                             </div>
                         </div>
@@ -448,22 +451,22 @@
         <section class="container seccion-recorrido">     
             <div class="row text-center text-white font-weight-bold text-uppercase">
                 <div class="col-md-12 mb-4">
-                    <h3 class="display-4">EL INCREIBLE RECORRIDO DEL AGUA</h3>
+                    <h3 class="display-4">EL RECORRIDO DEL AGUA PARA LLEGAR A TI</h3>
                 </div>
                 <div class="col-md-3">
-                    <img src="public/images/cm-1.svg" alt="logo" height="80px">
-                    <p class="mt-3">NACIÓ EN </p>
+                    <img src="public/images/nace.svg" alt="logo" height="80px">
+                    <p class="mt-3">NACE EN LOS MANANTES DE SAN JERÓNIMO</p>
                 </div>
                 <div class="col-md-3">
-                    <img src="public/images/cm-2.svg" alt="logo" height="80px">
-                    <p class="mt-3">VIAJO CIENTOS DE KILOMETROS</p>
+                    <img src="public/images/seguimiento.svg" alt="logo" height="80px">
+                    <p class="mt-3">VIAJA KILOMETROS</p>
                 </div>
                 <div class="col-md-3">
-                    <img src="public/images/cm-3.svg" alt="logo" height="80px">
-                    <p class="mt-3">PASÓ POR ESTRICTOS CONTROLES DE CALIDAD AVALADOS POR ...</p>
+                    <img src="public/images/calidad.svg" alt="logo" height="80px">
+                    <p class="mt-3">PASA POR ESTRICTOS CONTROLES DE CALIDAD</p>
                 </div>
                 <div class="col-md-3">
-                    <img src="public/images/cm-4.svg" alt="logo" height="80px">
+                    <img src="public/images/caño.svg" alt="logo" height="80px">
                     <p class="mt-3">PARA LLEGAR A TI!</p>
                 </div>                
             </div>
@@ -480,6 +483,8 @@
                             <li>Jr. 28 de Julio 221</li>
                             <li>Tel. 083 797 874</li>
                             <li>Atención al usuario</li>
+                            <li>Mañana: 08:00 am-12:00 pm</li>
+                            <li>Tarde: 02:00 pm-05:00 pm</li>
                         </ul>
                     </div>
                     <div class="col-md-4 text-center">
