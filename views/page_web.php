@@ -98,7 +98,8 @@
                     <img src="public/images/cm-4.svg" alt="logo" class="" height="150px">
                     <h4>CONVENIOS</h4>
                     <hr class="line-seccion">
-                    <p>*Municipalidad Distrital de San Jerónimo</p>
+                    <p>Municipalidad Distrital de San Jerónimo.</p>
+                    <p>Acuerdo N° 092-2019-CM-MDSJ</p>
                 </div>
             </div>
         </div>
@@ -123,11 +124,11 @@
                     </div>
                     <div class="col-md-3">
                         <p class="display-3">100%</p>
-                        <p>Libre de coliformes fecales</p>
+                        <p>Análisis físico químico y microbiológico</p>
                     </div>
                     <div class="col-md-3">
                         <p class="display-3">100%</p>
-                        <p>Contenido aqui</p>
+                        <p>Con control basado en la ley 26842 </p>
                     </div>
                 </div>
 
@@ -277,7 +278,7 @@
             <div class="modal-body text-left">
 
                 <ul>                
-                    <li><i class="fas fa-tags"></i> Soicitar el servicio del personal de gasfiteria en la oficina de ASUSAP.</li>
+                    <li><i class="fas fa-tags"></i> Solicitar el servicio del personal de gasfiteria en la oficina de ASUSAP.</li>
                     <li><i class="fas fa-tags"></i> asusap se responsabiliza del costo de servicio de gasfiteria hasta la puerta del domicilio.</li>
                     <li><i class="fas fa-tags"></i> las averias internas tienen un costo adicional dependiendo del servicio prestado.</li>
                     <!--<li><i class="fas fa-tags"></i> Lorem, ipsum dolor.</li>-->
@@ -393,9 +394,9 @@
                         <div class=" card-noticia">
                             <div class="borde-noticia">
                                 <img src="public/images/asusap/reservorio2.jpg" alt="" class="img-noticia">
-                                <h4 class="px-2">ASUSAP VIENE IMPLEMNTANDO VALVULAS REGUALDORAS</h4>
-                                <p class="px-2">A tavés de la junta directiva 2019-2021 asusap pensando en mejorar el servico para los usuarios....</p>
-                                <a href="?pg=noticia&id=1" class="btn btn-sm">VER MAS</a>                                
+                                <h4 class="px-2">INSTALACIÓN DE CÁMARAS DE VIDEO VIGILANCIA</h4>
+                                <p class="px-2">Para ele mejor control de los reservorios principales de aymarapata y huasipara ....</p>
+                                <a href="?pg=noticia&id=1" class="btn btn-sm">VER MÁS</a>                                
                             </div>
                         </div>
                     </li>
@@ -403,9 +404,9 @@
                         <div class=" card-noticia">
                             <div class="borde-noticia">
                                 <img src="public/images/asusap/reservorio1.jpg" alt="" class="img-noticia">
-                                <h4 class="px-2">ASUSAP IMPLEMENTA CÁMARAS DE SEGURIDAD</h4>
-                                <p class="px-2">Para el mejro control de los distintos reservorios la junta directiva ......</p>
-                                <a href="?pg=noticia&id=2" class="btn btn-sm">VER MAS</a>
+                                <h4 class="px-2">MEJORAMIENTO DE SOFTWARE</h4>
+                                <p class="px-2">Implementación de un software a medida para los procedimientos de cobranza y servicios ......</p>
+                                <a href="?pg=noticia&id=2" class="btn btn-sm">VER MÁS</a>
                             </div>
                         </div>
                     </li>
@@ -413,9 +414,9 @@
                         <div class=" card-noticia">
                             <div class="borde-noticia">
                                 <img src="public/images/asusap/oficina1.jpg" alt="" class="img-noticia">
-                                <h4 class="px-2">ASUSAP MODERNIZA SU SISTEMA</h4>
-                                <p class="px-2">Con voluntad de servicio por parde la junta directica, se compro un nuevo sistema para los recibos de agua potable...</p>
-                                <a href="?pg=noticia&id=3" class="btn btn-sm">VER MAS</a>
+                                <h4 class="px-2">GESTIÓN Y TRAMITE DE PROCEDIMIENTO DE ACREDITACIÓN</h4>
+                                <p class="px-2">Acreditacion de disponibilidad hídrica superficial de agua con fines poblacionales resuelto con resolución directoral...</p>
+                                <a href="?pg=noticia&id=3" class="btn btn-sm">VER MÁS</a>
                             </div>
                         </div>
                     </li>
@@ -423,9 +424,39 @@
                         <div class=" card-noticia">
                             <div class="borde-noticia">
                                 <img src="public/images/asusap/oficina2.jpg" alt="" class="img-noticia">
-                                <h4 class="px-2">CONVENIO CON LAS INSTITUCIONES PARA USO DE AGUA</h4>
-                                <p class="px-2">En coordinación con la junta directiva las instituciones realizan un control en el mejro uso del agua en sus locales.....</p>
-                                <a href="?pg=noticia&id=4" class="btn btn-sm">VER MAS</a>
+                                <h4 class="px-2">MEDIDAS DE PRESIÓN PCSI PARA DETERMINAR VOLUMEN</h4>
+                                <p class="px-2">Determinación de volumen de agua para mejorar la distribución.....</p>
+                                <a href="?pg=noticia&id=4" class="btn btn-sm">VER MÁS</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="glide__slide">
+                        <div class=" card-noticia">
+                            <div class="borde-noticia">
+                                <img src="public/images/asusap/oficina2.jpg" alt="" class="img-noticia">
+                                <h4 class="px-2">AMPLIACIÓN DE INSTALACIONES SANITARIAS</h4>
+                                <p class="px-2">Ampliación de instalaciones sanitarias de redes de conexión de agua domiciliaria.....</p>
+                                <a href="?pg=noticia&id=4" class="btn btn-sm">VER MÁS</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="glide__slide">
+                        <div class=" card-noticia">
+                            <div class="borde-noticia">
+                                <img src="public/images/asusap/oficina2.jpg" alt="" class="img-noticia">
+                                <h4 class="px-2">MEJORAMIENTO Y AMPLIACIÓN DE CÁMARA DE ROMPE PRESIÓN</h4>
+                                <p class="px-2">Para el reservorio principal de aymarapata para mantenimiento permanente.....</p>
+                                <a href="?pg=noticia&id=4" class="btn btn-sm">VER MÁS</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="glide__slide">
+                        <div class=" card-noticia">
+                            <div class="borde-noticia">
+                                <img src="public/images/asusap/oficina2.jpg" alt="" class="img-noticia">
+                                <h4 class="px-2">INSTALACIÓN DE VÁLVULAS REGULADORAS</h4>
+                                <p class="px-2">Control de aire y de agua por manzanas en las arterias del area urbano.....</p>
+                                <a href="?pg=noticia&id=4" class="btn btn-sm">VER MÁS</a>
                             </div>
                         </div>
                     </li>
