@@ -78,7 +78,7 @@
 }
 .header_k .navmenu_k .navegacion ul li .submenu {
   opacity: 0;
-  transform: translateY(20px);
+  transform: scaleY(0);
   transition: all 0.3s;
   position: absolute;
   left: -30%;
@@ -125,7 +125,7 @@
 }
 .header_k .navmenu_k .navegacion ul li:hover .submenu {
   opacity: 1;
-  transform: translateY(0px);
+  transform: scaleY(1);
 }
 @media All and (max-width: 500px) {
   .header_k .navmenu_k .navegacion ul li:hover .submenu {
