@@ -47,6 +47,18 @@
                         </div>
                         <img src="public/images/asusap/asus.jpg" class="" alt="...">
                     </li>
+                    <li class="glide__slide">
+                        <div class="texto-presentacion">
+                            <h2 class="text-uppercase px-3" style="font-size: 40px">RECERVORIO ÑAHUIN<br>2019-2021</h2>                
+                        </div>
+                        <img src="public/images/asusap/ñahuin.jpg" class="" alt="...">
+                    </li>
+                    <li class="glide__slide">
+                        <div class="texto-presentacion">
+                            <h2 class="text-uppercase px-3" style="font-size: 40px">RECERVORIO HUASIPARA<br>2019-2021</h2>                
+                        </div>
+                        <img src="public/images/asusap/huasi.jpg" class="" alt="...">
+                    </li>
                 </ul>
                 </div>
         
@@ -316,8 +328,8 @@
                     <img src="public/images/asusap/tanque.jpg" alt="">
                     <div class="sombra"></div>
                     <div class="informacion">
-                        <h2>ÑAHUIN</h2>
-                        <p>Descripción de ñahuin</p>
+                        <h2>AYMARAPATA</h2>
+                        <p>Descripción de aymarapata</p>
                     </div>
                 </div>
                 <div class="col-md-3 columna-sec42 bg-primary">
