@@ -21,14 +21,14 @@
 
         <div class="container noticia-pagina">
 
-            <h1 class="text-center">Lorem ipsum, dolor sit amet consectetur adipisicing.</h1>
+            <h1 class="text-center">ASUSAP VIENE IMPLEMNTANDO VALVULAS REGUALDORAS</h1>
 
             <section class="noticia-imagen">
                 <img src="public/images/asusap/reservorio2.jpg" alt="" class="">
             </section>
 
             <p class="noticia-descripcion">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae excepturi maiores, ipsum eligendi asperiores nihil explicabo eius temporibus assumenda doloribus rerum itaque labore mollitia ducimus quia ad vitae magnam ea possimus? Minus, temporibus nam cupiditate enim quas sequi dolor voluptatibus? Expedita iusto odio necessitatibus magni nesciunt magnam distinctio placeat obcaecati vitae nihil numquam excepturi sapiente natus possimus debitis earum tempora dolores sint, incidunt quaerat quam maiores. Ullam a libero suscipit quisquam est eum corrupti quo maxime impedit et? Sapiente, necessitatibus tenetur? Voluptas maiores molestiae saepe, quia magnam assumenda commodi ipsam ex nesciunt aspernatur temporibus quas. Velit cumque voluptas perferendis odio!
+            A tavés de la junta directiva 2019-2021 asusap pensando en mejorar el servico para los usuarios....
             </p>
 
             <section class="row noticia-fotos">
@@ -93,23 +93,18 @@
                     <div class="col-md-3">
                         <h3>SOMOS</h3>
                         <ul>
-                            <li>Lorem, ipsum dolor.</li>
-                            <li>Lorem ipsum dolor sit.</li>
-                            <li>Lorem ipsum dolor sit.</li>
-                            <li>Lorem ipsum dolor sit.</li>
+                            <li>ASUSAP</li>
+                            <li>Jr. 28 de Julio 221</li>
+                            <li>Tel. 083 797 874</li>
+                            <li>Atención al usuario</li>
+                            <li>Mañana: 08:00 am-12:00 pm</li>
+                            <li>Tarde: 02:00 pm-05:00 pm</li>
                         </ul>
                     </div>
                     <div class="col-md-3">
-                        <h3>PROYECTOS</h3>
-                        <ul>
-                            <li>Lorem, ipsum dolor.</li>
-                            <li>Lorem ipsum dolor sit.</li>
-                            <li>Lorem ipsum dolor sit.</li>
-                            <li>Lorem ipsum dolor sit.</li>
-                            <li>Lorem ipsum dolor sit.</li>
-                            <li>Lorem ipsum dolor sit.</li>
-                            <li>Lorem ipsum dolor sit.</li>
-                        </ul>
+                    <h3 class="text-left">SECCIÓN SOCIAL</h3>
+
+                            <iframe width="100%" height="450" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FRezuam-600773577055743%2F&tabs=timeline&width=300&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
                     </div>
 
                     <div class="col-md-6 text-center p-0">
