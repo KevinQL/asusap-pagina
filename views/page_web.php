@@ -111,7 +111,7 @@
                     <h4>CONVENIOS</h4>
                     <hr class="line-seccion">
                     <p>Municipalidad Distrital de San Jerónimo.</p>
-                    <p>Acuerdo N° 092-2019-CM-MDSJ</p>
+                    <p>Acuerdo N° 092-2019-CM-MDSJ, en la que entrega en sesión de uso un bien inmueble-terreno de área de 400 m2 en el sector de ccotomarca-huasipara </p>
                 </div>
             </div>
         </div>
@@ -408,7 +408,7 @@
                                 <img src="public/images/asusap/reservorio2.jpg" alt="" class="img-noticia">
                                 <h4 class="px-2">INSTALACIÓN DE CÁMARAS DE VIDEO VIGILANCIA</h4>
                                 <p class="px-2">Para ele mejor control de los reservorios principales de aymarapata y huasipara ....</p>
-                                <a href="?pg=noticia&id=1" class="btn btn-sm">VER MÁS</a>                                
+                                <a href="?pg=noticia_camaras_vigilancia&id=1" class="btn btn-sm">VER MÁS</a>                                
                             </div>
                         </div>
                     </li>
