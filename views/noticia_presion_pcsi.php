@@ -30,7 +30,7 @@
             <p class="noticia-descripcion">
             Medidas de presión PCSI para determinar el volumen de agua por calles para mejor distribución.
             </p>
-            <section class="row noticia-fotos">
+            <!--<section class="row noticia-fotos">
                 <div class="col-md-3">
                     <img src="public/images/asusap/reservorio1.jpg" alt="" class="img-fluid w-100">
                 </div>
@@ -49,11 +49,11 @@
                 <div class="col-md-3">
                     <img src="public/images/asusap/reservorio1.jpg" alt="" class="img-fluid w-100">
                 </div>
-            </section>
+            </section> -->
 
         </div>
 
-        <!-- GALERIA HOVER NOTICIAS - FORMA MODAL-->
+        <!-- GALERIA HOVER NOTICIAS - FORMA MODAL
         <section class="galeria-fotos">
             <div class="container-galeria">
                 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
@@ -70,11 +70,11 @@
                     </div>
                     <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
                         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                        <span class="sr-only">Previous</span>
+                        <span class="sr-only">Anterior</span>
                     </a>
                     <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
                         <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                        <span class="sr-only">Next</span>
+                        <span class="sr-only">Siguiente</span>
                     </a>
                 </div>
             </div>
@@ -82,7 +82,7 @@
                 <button class="btn btn-sm btn-salir-click"><i class="fas fa-window-close fa-2x"></i></button>
                 <p class="px-5 py-2"> Puedes pasar la galería de imagenes de un lado a otro para ver todas las fotos.</p>
             </div>
-        </section>
+        </section>-->
 
 
 

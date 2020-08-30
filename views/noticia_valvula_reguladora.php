@@ -24,7 +24,7 @@
             <h1 class="text-center">INSTALACIÓN DE VÁLVULAS REGULADORAS</h1>
 
             <section class="noticia-imagen">
-                <img src="public/images/asusap/reservorio2.jpg" alt="" class="">
+                <img src="public/images/asusap/valvula_control.jpg" alt="" class="">
             </section>
 
             <p class="noticia-descripcion">
@@ -33,9 +33,9 @@
 
             <section class="row noticia-fotos">
                 <div class="col-md-3">
-                    <img src="public/images/asusap/reservorio1.jpg" alt="" class="img-fluid w-100">
+                    <img src="public/images/asusap/valvula_control.jpg" alt="" class="img-fluid w-100">
                 </div>
-                <div class="col-md-3">
+                <!--<div class="col-md-3">
                     <img src="public/images/asusap/reservorio2.jpg" alt="" class="img-fluid w-100">
                 </div>
                 <div class="col-md-3">
@@ -49,7 +49,7 @@
                 </div>
                 <div class="col-md-3">
                     <img src="public/images/asusap/reservorio1.jpg" alt="" class="img-fluid w-100">
-                </div>
+                </div>-->
             </section>
 
         </div>
@@ -60,22 +60,22 @@
                 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="public/images/asusap/reservorio1.jpg" class="" alt="...">
+                            <img src="public/images/asusap/valvula_control.jpg" class="" alt="...">
                         </div>
-                        <div class="carousel-item">
+                        <!--<div class="carousel-item">
                             <img src="public/images/asusap/reservorio2.jpg" class="" alt="...">
                         </div>
                         <div class="carousel-item">
                             <img src="public/images/asusap/reservorio1.jpg" class="" alt="...">
-                        </div>
+                        </div>-->
                     </div>
                     <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
                         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                        <span class="sr-only">Previous</span>
+                        <span class="sr-only">Anterior</span>
                     </a>
                     <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
                         <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                        <span class="sr-only">Next</span>
+                        <span class="sr-only">Siguiente</span>
                     </a>
                 </div>
             </div>

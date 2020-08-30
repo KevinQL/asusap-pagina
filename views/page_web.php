@@ -415,7 +415,7 @@
                     <li class="glide__slide">
                         <div class=" card-noticia">
                             <div class="borde-noticia">
-                                <img src="public/images/asusap/reservorio1.jpg" alt="" class="img-noticia">
+                                <img src="public/images/asusap/sistema4.jpg" alt="" class="img-noticia">
                                 <h4 class="px-2">MEJORAMIENTO DE SOFTWARE</h4>
                                 <p class="px-2">Implementación de un software a medida para los procedimientos de cobranza y servicios ......</p>
                                 <a href="?pg=noticia&id=2" class="btn btn-sm">VER MÁS</a>
@@ -455,7 +455,7 @@
                     <li class="glide__slide">
                         <div class=" card-noticia">
                             <div class="borde-noticia">
-                                <img src="public/images/asusap/oficina2.jpg" alt="" class="img-noticia">
+                                <img src="public/images/asusap/camara_rompe_presionm.jpg" alt="" class="img-noticia">
                                 <h4 class="px-2">MEJORAMIENTO Y AMPLIACIÓN DE CÁMARA DE ROMPE PRESIÓN</h4>
                                 <p class="px-2">Para el reservorio principal de aymarapata para mantenimiento permanente.....</p>
                                 <a href="?pg=noticia&id=4" class="btn btn-sm">VER MÁS</a>
@@ -465,7 +465,7 @@
                     <li class="glide__slide">
                         <div class=" card-noticia">
                             <div class="borde-noticia">
-                                <img src="public/images/asusap/oficina2.jpg" alt="" class="img-noticia">
+                                <img src="public/images/asusap/valvula_control.jpg" alt="" class="img-noticia">
                                 <h4 class="px-2">INSTALACIÓN DE VÁLVULAS REGULADORAS</h4>
                                 <p class="px-2">Control de aire y de agua por manzanas en las arterias del area urbano.....</p>
                                 <a href="?pg=noticia&id=4" class="btn btn-sm">VER MÁS</a>

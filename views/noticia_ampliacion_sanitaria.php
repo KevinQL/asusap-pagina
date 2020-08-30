@@ -31,7 +31,7 @@
             Ampliación de instalaciones sanitarias de red de conexión de agua domiciliaria a usuarios del barrio de chuspi de 100 metros lineales con 50% de aporte de los mismos usuarios.
             </p>
 
-            <section class="row noticia-fotos">
+           <!-- <section class="row noticia-fotos">
                 <div class="col-md-3">
                     <img src="public/images/asusap/reservorio1.jpg" alt="" class="img-fluid w-100">
                 </div>
@@ -50,11 +50,11 @@
                 <div class="col-md-3">
                     <img src="public/images/asusap/reservorio1.jpg" alt="" class="img-fluid w-100">
                 </div>
-            </section>
+            </section>-->
 
         </div>
 
-        <!-- GALERIA HOVER NOTICIAS - FORMA MODAL-->
+        <!-- GALERIA HOVER NOTICIAS - FORMA MODAL
         <section class="galeria-fotos">
             <div class="container-galeria">
                 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
@@ -83,7 +83,7 @@
                 <button class="btn btn-sm btn-salir-click"><i class="fas fa-window-close fa-2x"></i></button>
                 <p class="px-5 py-2"> Puedes pasar la galería de imagenes de un lado a otro para ver todas las fotos.</p>
             </div>
-        </section>
+        </section>-->
 
 
 
