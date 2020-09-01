@@ -17,6 +17,40 @@
 
 
 
+<!-- Button tarifario oulto -->
+<button type="button" class="btn btn-primary d-none btn-tarifario" data-toggle="modal" data-target="#tarif_modal">
+  btn oculto para modal de tarfario
+</button>
+
+<!-- Modal tarifario -->
+<div class="modal fade" id="tarif_modal" tabindex="-1" role="dialog" aria-labelledby="tarif_modalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="tarif_modalLabel">
+            Modal title TARIFARIO
+        </h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <ul>
+            <li>tarifa uno</li>
+            <li>tarifa dos</li>
+            <li>ejemplo</li>
+        </ul>
+
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-info" data-dismiss="modal">Aceptar</button>        
+      </div>
+    </div>
+  </div>
+</div>
+
+
         <hr class="bg-info py-1 m-0 border-1">
 
         <!-- PRESENTACIÓN DE UNA SOLA IMAGEN  -->
@@ -358,42 +392,7 @@
                 </div>
             </div>
         </section>
-
-        <!-- <section class="container my-5 seccion-noticias">
-            <div class="row">
-                <div class="col-md-12 text-center mb-3">
-                    <h1>NOTICIAS</h1>
-                </div>
-                <!-- NOTICIAS CARDS -->
-        <!--
-                <div class="col-md-4 card-noticia">
-                    <div class="borde-noticia">
-                        <img src="public/images/imgpresentacion.jpg" alt="" class="img-noticia">
-                        <h4 class="px-2">Lorem, ipsum dolor.</h4>
-                        <p class="px-2">Lorem, ipsum dolor sit amet consectetur adipisicing elit...</p>
-                        <button class="btn btn-sm">VER MAS</button>
-                    </div>
-                </div>
-                <div class="col-md-4 card-noticia">
-                    <div class="borde-noticia">
-                        <img src="public/images/img3.jpg" alt="" class="img-noticia">
-                        <h4 class="px-2">Lorem, ipsum dolor.</h4>
-                        <p class="px-2">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugit saepe autem sit eos illum perferendis dolor suscipit pariatur cupiditate ratione odio quibusdam, consectetur dolore provident eveniet recusandae? Dolorum, inventore nemo.</p>
-                        <button class="btn btn-sm">VER MAS</button>
-                    </div>
-                </div>
-                <div class="col-md-4 card-noticia">
-                    <div class="borde-noticia">
-                        <img src="public/images/imgpresentacion.jpg" alt="" class="img-noticia">
-                        <h4 class="px-2">Lorem, ipsum dolor.</h4>
-                        <p class="px-2">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugit saepe autem sit eos illum perferendis dolor suscipit pariatur cupiditate ratione odio quibusdam, consectetur dolore provident eveniet recusandae? Dolorum, inventore nemo.</p>
-                        <button class="btn  btn-sm">VER MAS</button>
-                    </div>                    
-                </div>
-            </div>
-        </section> -->
-
-        
+        <!-- NOTICIAS -->
         <section class="container my-5 seccion-noticias" id="seccion-noticias">
             <div class="col-md-12 text-center mb-3">
                 <h1>INFORMATIVO INSTITUCIONAL</h1>
@@ -406,7 +405,7 @@
                         <div class=" card-noticia">
                             <div class="borde-noticia">
                                 <img src="public/images/asusap/reservorio2.jpg" alt="" class="img-noticia">
-                                <h5 class="px-2">INSTALACIÓN DE CÁMARAS DE VIDEO VIGILANCIA</h5>
+                                <h5 class="px-2 titulo-noti">INSTALACIÓN DE CÁMARAS DE VIDEO VIGILANCIA</h5>
                                 <p class="px-2">Para ele mejor control de los reservorios principales de aymarapata y huasipara ....</p>
                                 <a href="?pg=noticia_camaras_vigilancia&id=1" class="btn btn-sm">VER MÁS</a>                                
                             </div>
@@ -416,7 +415,7 @@
                         <div class=" card-noticia">
                             <div class="borde-noticia">
                                 <img src="public/images/asusap/sistema4.jpg" alt="" class="img-noticia">
-                                <h5 class="px-2">MEJORAMIENTO DE SOFTWARE</h5>
+                                <h5 class="px-2 titulo-noti">MEJORAMIENTO DE SOFTWARE</h5>
                                 <p class="px-2">Implementación de un software a medida para los procedimientos de cobranza y servicios ......</p>
                                 <a href="?pg=noticia_software&id=2" class="btn btn-sm">VER MÁS</a>
                             </div>
@@ -426,7 +425,7 @@
                         <div class=" card-noticia">
                             <div class="borde-noticia">
                                 <img src="public/images/asusap/oficina1.jpg" alt="" class="img-noticia">
-                                <h5 class="px-2">GESTIÓN Y TRAMITE DE PROCEDIMIENTO DE ACREDITACIÓN</h5>
+                                <h5 class="px-2 titulo-noti">GESTIÓN Y TRAMITE DE PROCEDIMIENTO DE ACREDITACIÓN</h5>
                                 <p class="px-2">Acreditacion de disponibilidad hídrica superficial de agua con fines poblacionales resuelto con resolución directoral...</p>
                                 <a href="?pg=noticia_gestion_tramite&id=3" class="btn btn-sm">VER MÁS</a>
                             </div>
@@ -436,7 +435,7 @@
                         <div class=" card-noticia">
                             <div class="borde-noticia">
                                 <img src="public/images/asusap/oficina2.jpg" alt="" class="img-noticia">
-                                <h5 class="px-2">MEDIDAS DE PRESIÓN PCSI PARA DETERMINAR VOLUMEN</h5>
+                                <h5 class="px-2 titulo-noti">MEDIDAS DE PRESIÓN PCSI PARA DETERMINAR VOLUMEN</h5>
                                 <p class="px-2">Determinación de volumen de agua para mejorar la distribución.....</p>
                                 <a href="?pg=noticia_presion_pcsi&id=4" class="btn btn-sm">VER MÁS</a>
                             </div>
@@ -446,7 +445,7 @@
                         <div class=" card-noticia">
                             <div class="borde-noticia">
                                 <img src="public/images/asusap/oficina2.jpg" alt="" class="img-noticia">
-                                <h5 class="px-2">AMPLIACIÓN DE INSTALACIONES SANITARIAS</h5>
+                                <h5 class="px-2 titulo-noti">AMPLIACIÓN DE INSTALACIONES SANITARIAS</h5>
                                 <p class="px-2">Ampliación de instalaciones sanitarias de redes de conexión de agua domiciliaria.....</p>
                                 <a href="?pg=noticia_ampliacion_sanitaria&id=4" class="btn btn-sm">VER MÁS</a>
                             </div>
@@ -456,7 +455,7 @@
                         <div class=" card-noticia">
                             <div class="borde-noticia">
                                 <img src="public/images/asusap/camara_rompe_presionm.jpg" alt="" class="img-noticia">
-                                <h5 class="px-2">MEJORAMIENTO Y AMPLIACIÓN DE CÁMARA DE ROMPE PRESIÓN</h5>
+                                <h5 class="px-2 titulo-noti">MEJORAMIENTO Y AMPLIACIÓN DE CÁMARA DE ROMPE PRESIÓN</h5>
                                 <p class="px-2">Para el reservorio principal de aymarapata para mantenimiento permanente.....</p>
                                 <a href="?pg=noticia_rompe_presion&id=4" class="btn btn-sm">VER MÁS</a>
                             </div>
@@ -466,7 +465,7 @@
                         <div class=" card-noticia">
                             <div class="borde-noticia">
                                 <img src="public/images/asusap/valvula_control.jpg" alt="" class="img-noticia">
-                                <h5 class="px-2">INSTALACIÓN DE VÁLVULAS REGULADORAS</h5>
+                                <h5 class="px-2 titulo-noti">INSTALACIÓN DE VÁLVULAS REGULADORAS</h5>
                                 <p class="px-2">Control de aire y de agua por manzanas en las arterias del area urbano.....</p>
                                 <a href="?pg=noticia_valvula_reguladora&id=4" class="btn btn-sm">VER MÁS</a>
                             </div>
