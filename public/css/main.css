@@ -371,6 +371,12 @@
   width: 100%;
   height: 300px;
 }
+.seccion-noticias .card-noticia .borde-noticia .titulo-noti {
+  padding-top: 3px;
+  color: #294872;
+  height: 60px;
+  font-size: 18px;
+}
 .seccion-noticias .card-noticia .borde-noticia p {
   overflow: hidden;
   height: 100px;
