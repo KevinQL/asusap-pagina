@@ -406,7 +406,7 @@
                         <div class=" card-noticia">
                             <div class="borde-noticia">
                                 <img src="public/images/asusap/reservorio2.jpg" alt="" class="img-noticia">
-                                <h4 class="px-2">INSTALACIÓN DE CÁMARAS DE VIDEO VIGILANCIA</h4>
+                                <h5 class="px-2">INSTALACIÓN DE CÁMARAS DE VIDEO VIGILANCIA</h5>
                                 <p class="px-2">Para ele mejor control de los reservorios principales de aymarapata y huasipara ....</p>
                                 <a href="?pg=noticia_camaras_vigilancia&id=1" class="btn btn-sm">VER MÁS</a>                                
                             </div>
@@ -416,9 +416,9 @@
                         <div class=" card-noticia">
                             <div class="borde-noticia">
                                 <img src="public/images/asusap/sistema4.jpg" alt="" class="img-noticia">
-                                <h4 class="px-2">MEJORAMIENTO DE SOFTWARE</h4>
+                                <h5 class="px-2">MEJORAMIENTO DE SOFTWARE</h5>
                                 <p class="px-2">Implementación de un software a medida para los procedimientos de cobranza y servicios ......</p>
-                                <a href="?pg=noticia&id=2" class="btn btn-sm">VER MÁS</a>
+                                <a href="?pg=noticia_software&id=2" class="btn btn-sm">VER MÁS</a>
                             </div>
                         </div>
                     </li>
@@ -426,9 +426,9 @@
                         <div class=" card-noticia">
                             <div class="borde-noticia">
                                 <img src="public/images/asusap/oficina1.jpg" alt="" class="img-noticia">
-                                <h4 class="px-2">GESTIÓN Y TRAMITE DE PROCEDIMIENTO DE ACREDITACIÓN</h4>
+                                <h5 class="px-2">GESTIÓN Y TRAMITE DE PROCEDIMIENTO DE ACREDITACIÓN</h5>
                                 <p class="px-2">Acreditacion de disponibilidad hídrica superficial de agua con fines poblacionales resuelto con resolución directoral...</p>
-                                <a href="?pg=noticia&id=3" class="btn btn-sm">VER MÁS</a>
+                                <a href="?pg=noticia_gestion_tramite&id=3" class="btn btn-sm">VER MÁS</a>
                             </div>
                         </div>
                     </li>
@@ -436,9 +436,9 @@
                         <div class=" card-noticia">
                             <div class="borde-noticia">
                                 <img src="public/images/asusap/oficina2.jpg" alt="" class="img-noticia">
-                                <h4 class="px-2">MEDIDAS DE PRESIÓN PCSI PARA DETERMINAR VOLUMEN</h4>
+                                <h5 class="px-2">MEDIDAS DE PRESIÓN PCSI PARA DETERMINAR VOLUMEN</h5>
                                 <p class="px-2">Determinación de volumen de agua para mejorar la distribución.....</p>
-                                <a href="?pg=noticia&id=4" class="btn btn-sm">VER MÁS</a>
+                                <a href="?pg=noticia_presion_pcsi&id=4" class="btn btn-sm">VER MÁS</a>
                             </div>
                         </div>
                     </li>
@@ -446,9 +446,9 @@
                         <div class=" card-noticia">
                             <div class="borde-noticia">
                                 <img src="public/images/asusap/oficina2.jpg" alt="" class="img-noticia">
-                                <h4 class="px-2">AMPLIACIÓN DE INSTALACIONES SANITARIAS</h4>
+                                <h5 class="px-2">AMPLIACIÓN DE INSTALACIONES SANITARIAS</h5>
                                 <p class="px-2">Ampliación de instalaciones sanitarias de redes de conexión de agua domiciliaria.....</p>
-                                <a href="?pg=noticia&id=4" class="btn btn-sm">VER MÁS</a>
+                                <a href="?pg=noticia_ampliacion_sanitaria&id=4" class="btn btn-sm">VER MÁS</a>
                             </div>
                         </div>
                     </li>
@@ -456,9 +456,9 @@
                         <div class=" card-noticia">
                             <div class="borde-noticia">
                                 <img src="public/images/asusap/camara_rompe_presionm.jpg" alt="" class="img-noticia">
-                                <h4 class="px-2">MEJORAMIENTO Y AMPLIACIÓN DE CÁMARA DE ROMPE PRESIÓN</h4>
+                                <h5 class="px-2">MEJORAMIENTO Y AMPLIACIÓN DE CÁMARA DE ROMPE PRESIÓN</h5>
                                 <p class="px-2">Para el reservorio principal de aymarapata para mantenimiento permanente.....</p>
-                                <a href="?pg=noticia&id=4" class="btn btn-sm">VER MÁS</a>
+                                <a href="?pg=noticia_rompe_presion&id=4" class="btn btn-sm">VER MÁS</a>
                             </div>
                         </div>
                     </li>
@@ -466,9 +466,9 @@
                         <div class=" card-noticia">
                             <div class="borde-noticia">
                                 <img src="public/images/asusap/valvula_control.jpg" alt="" class="img-noticia">
-                                <h4 class="px-2">INSTALACIÓN DE VÁLVULAS REGULADORAS</h4>
+                                <h5 class="px-2">INSTALACIÓN DE VÁLVULAS REGULADORAS</h5>
                                 <p class="px-2">Control de aire y de agua por manzanas en las arterias del area urbano.....</p>
-                                <a href="?pg=noticia&id=4" class="btn btn-sm">VER MÁS</a>
+                                <a href="?pg=noticia_valvula_reguladora&id=4" class="btn btn-sm">VER MÁS</a>
                             </div>
                         </div>
                     </li>
@@ -484,7 +484,10 @@
                     <button class="glide__bullet" data-glide-dir="=0"></button>
                     <button class="glide__bullet" data-glide-dir="=1"></button>
                     <button class="glide__bullet" data-glide-dir="=2"></button>
-                    <button class="glide__bullet" data-glide-dir="=3"></button>    
+                    <button class="glide__bullet" data-glide-dir="=3"></button>  
+                    <button class="glide__bullet" data-glide-dir="=4"></button>
+                    <button class="glide__bullet" data-glide-dir="=5"></button>
+                    <button class="glide__bullet" data-glide-dir="=6"></button>  
                 </div>
             </div>  
         </section>
@@ -530,13 +533,14 @@
                             <li>Tarde: 02:00 pm-05:00 pm</li>
                         </ul>
                     </div>
-                    <div class="col-md-4 text-center">
+                    <div class="col-md-4 text-center p-0">
                         <h3 class="text-left">SECCIÓN SOCIAL</h3>
 
-                        <iframe width="100%" height="450" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FRezuam-600773577055743%2F&tabs=timeline&width=300&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-
-                        <!-- <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FSute-Andahuaylas-Oficial-118870519500684%2F&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=false&appId" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe> -->
+                        <!-- <iframe width="100%" height="450" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FRezuam-600773577055743%2F&tabs=timeline&width=300&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe> -->
                 
+                        <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FAgua-Potable-San-Jer%25C3%25B3nimo-104284128078202%2F&tabs=timeline&width=340&height=450&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="100%" height="450" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
+
                     </div>
 
                     <div class="col-md-5 p-0">
