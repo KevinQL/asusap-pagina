@@ -68,7 +68,7 @@
 
                 }else {
 
-                    $arrayPaginas_sinSession = ['noticia','organigrama', 'historia'];
+                    $arrayPaginas_sinSession = ['noticia','noticia_camaras_vigilancia','noticia_software','noticia_gestion_tramite','noticia_presion_pcsi','noticia_ampliacion_sanitaria','noticia_rompe_presion','noticia_valvula_reguladora','organigrama', 'historia'];
                     
                     if(in_array($pagina, $arrayPaginas_sinSession, true)){
 
