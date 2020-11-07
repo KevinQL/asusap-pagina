@@ -6,7 +6,7 @@
             include_once(PARTIALS_PAGE."cdnsheader.html");
         ?>
 
-        <title>ASUSAP</title>
+        <title>ASOCIACIÓN</title>
     </head>
     <body>
 
@@ -27,7 +27,7 @@
             <!-- SECCIÓN SALUDO ALCALDE  -->
     <section class="bg-light" id="alcalde-regidores">
         <div class="container py-4 text-center lead text-muted">
-            <h3>ASUSAP SANJERÓNIMO<br>GESTIÓN 2019-2021</h3>
+            <h3>ASOCIACIÓN DE USUARIOS DE AGUA POTABLE DE SANJERÓNIMO<br>GESTIÓN 2019-2021</h3>
             <p>lema si hubiera</p>
         </div>
     </section>
@@ -130,7 +130,7 @@
                     <div class="col-md-3">
                         <h3>SOMOS</h3>
                         <ul>
-                            <li>ASUSAP</li>
+                            <li>ASOCIACIÓN</li>
                             <li>Jr. 28 de Julio 221</li>
                             <li>Tel. 083 797 874</li>
                             <li>Atención al usuario</li>
@@ -153,7 +153,7 @@
                     </div>
 
                     <div class="col-md-12 text-center text-muted mt-5" >
-                        <span>CopyRight ASUSAP - 2020</span>
+                        <span>CopyRight ASOCIACIÓN - 2020</span>
                     </div>
                 </div>
             </div>

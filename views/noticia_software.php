@@ -6,7 +6,7 @@
             include_once(PARTIALS_PAGE."cdnsheader.html");
         ?>
 
-        <title>ASUSAP</title>
+        <title>ASOCIACIÓN</title>
     </head>
     <body>
 
@@ -21,7 +21,7 @@
 
         <div class="container noticia-pagina">
 
-            <h1 class="text-center">ASUSAP MEJORA EL SISTEMA DE COBRANZA</h1>
+            <h1 class="text-center">ASOCIACIÓN MEJORA EL SISTEMA DE COBRANZA</h1>
 
             <section class="noticia-imagen">
                 <img src="public/images/asusap/sistema5.jpg" alt="" class="">
@@ -101,7 +101,7 @@
                     <div class="col-md-3">
                         <h3>SOMOS</h3>
                         <ul>
-                            <li>ASUSAP</li>
+                            <li>ASOCIACIÓN</li>
                             <li>Jr. 28 de Julio 221</li>
                             <li>Tel. 083 797 874</li>
                             <li>Atención al usuario</li>
@@ -120,7 +120,7 @@
                     </div>
 
                     <div class="col-md-12 text-center text-muted mt-5" >
-                        <span>CopyRight ASUSAP - 2020</span>
+                        <span>CopyRight ASOCIACIÓN - 2020</span>
                     </div>
                 </div>
             </div>
