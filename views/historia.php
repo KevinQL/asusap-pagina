@@ -6,7 +6,7 @@
             include_once(PARTIALS_PAGE."cdnsheader.html");
         ?>
 
-        <title>ASUSAP - HISTORIA </title>
+        <title>ASOCIACIÓN - HISTORIA </title>
     </head>
     <body>
 
@@ -45,7 +45,7 @@
             </div>
 
             <p class="historia-parrafo">
-                La primera captación del ojo del manante ñahuin para  agua potable de uso poblacional de san jerónimo, provincia de Andahuaylas, departamento de Apurímac fueron impulsados por personalidades del distrito constituidos en una junta administrativa, iniciando sus actividades a partir del 13 de julio de 1982 cuya junta fue conformada por los siguientes ciudadanos:
+                La primera captación del manante ñahuin para  agua potable de uso poblacional de san jerónimo, provincia de Andahuaylas, departamento de Apurímac fueron impulsados por personalidades del distrito constituidos en una junta administradora de agua, iniciando sus actividades a partir del 13 de julio de 1992 cuya junta fue conformada por los siguientes ciudadanos:
             </p>
 
             <div class="historia-junta">
@@ -106,7 +106,7 @@
             </div>
 
             <p class="historia-parrafo">
-                Quienes desarrollan un pequeño proyecto ñahuin con aportes económicos de pocos usuarios de aquel entonces indicándose  la captación de líneas de conducción de tubos de agua hasta el pequeño reservorio aymarapata desde se suministra con el servicio de agua tratada a la fecha, es decir que los pobladores hacen realidad con trabajos de faena cívica comunal que masivamente participaron con el trabajo de apertura de zanjas para la instalación de redes distribución de conexión domiciliarias en todas las arterias del área urbano.
+                Quienes desarrollan un pequeño proyecto ñahuin con aportes económicos de pocos usuarios de aquel entonces indicándose  la captación de líneas de conducción de tubos de agua hasta el pequeño reservorio aymarapata desde donde se suministra con el servicio de agua tratada a la fecha, es decir que los pobladores hacen realidad con trabajos de faena cívica comunal que masivamente participaron con el trabajo de apertura de zanjas para la instalación de redes distribución de conexión domiciliarias en todas las arterias del área urbano.
             </p>
 
             <!-- <h4 class="text-center lead text-muted py-2">DOS</h4> -->
@@ -115,11 +115,11 @@
             </div>
             
             <p class="historia-parrafo">
-                Durante el periodo de mandato del profesor Efraín Nazario Alvarado Medina el año 1996 se realiza el mejoramiento y ampliación del reservorio de aymarapata con apoyo financiero de la ONG INTERVIDA y aportes de todos los usuarios llegándose a construir un reservorio de 450 m3 en terrenos de propiedad del colegio agropecuario en convenio institucional desde donde se suministra agua tratada al 90% de usuarios de la población jeronimiana a la fecha.   
+                Durante el periodo de mandato del profesor Efraín Nazario Alvarado Medina el año 1996 se realiza el mejoramiento y ampliación del reservorio de aymarapata con apoyo financiero de la ONG INTERVIDA y aportes de todos los usuarios llegándose a construir un reservorio de 450 m3 de capacidad en terrenos de propiedad del colegio agropecuario en convenio interinstitucional desde donde se suministra agua tratada al 90% de usuarios de la población jeronimiana a la fecha.   
             </p>
 
             <p class="historia-parrafo">
-                El 16 de agosto de 1996 se institucionaliza como una persona jurídica denominado asociación de usuarios de agua potable de san jerónimo iniciando vida institucional siendo la primera junta directiva, con inscripción en registros públicos con partida registral N° 02004958 fecha que inicia sus actividades legales conformando el consejo directivo las siguientes personas:
+                El 16 de agosto de 1996 se institucionaliza como persona jurídica denominado asociación de usuarios de agua potable de san jerónimo iniciando vida institucional siendo su primera junta directiva, con inscripción en registros públicos con partida registral N° 02004958 fecha que inicia sus actividades legales conformando el consejo directivo las siguientes personas:
             </p>
 
             <div class="historia-junta">
@@ -205,7 +205,7 @@
             </div>
 
             <p class="historia-parrafo">
-                Durante la Gestión del periodo de 22 de mayo del 2010 al 22 de mayo del 2012 con inscripción registral de mandato N° 02004958 SUNARP, los integrantes del consejo directivo de aquella gestión adquieren un terreno en el JR. 28 de julio N° 221 de 120 m2 como patrimonio de la asociación iniciando la construcción de un local institucional que a la actualidad brinda sus servicios siendo su CONSEJO DIRECTIVO 
+                Durante la Gestión en el periodo de 22 de mayo del 2010 al 22 de mayo del 2012 con inscripción registral de mandato N° 02004958 SUNARP, los integrantes del consejo directivo de aquella gestión adquieren un terreno en el JR. 28 de julio N° 103.96 de 120 m2 como patrimonio de la asociación iniciando la construcción de un local institucional que a la actualidad brinda sus servicios siendo su CONSEJO DIRECTIVO 
             </p>
 
             <div class="historia-junta">
@@ -306,7 +306,7 @@
                     <div class="col-md-3">
                         <h3>SOMOS</h3>
                         <ul>
-                            <li>ASUSAP</li>
+                            <li>ASOCIACIÓN</li>
                             <li>Jr. 28 de Julio 221</li>
                             <li>Tel. 083 797 874</li>
                             <li>Atención al usuario</li>
@@ -329,7 +329,7 @@
                     </div>
 
                     <div class="col-md-12 text-center text-muted mt-5" >
-                        <span>CopyRight ASUSAP - 2020</span>
+                        <span>CopyRight ASOSIACION DE USUARIOS DE AGUA POTABLE - 2020</span>
                     </div>
                 </div>
             </div>

@@ -6,7 +6,7 @@
             include_once(PARTIALS_PAGE."cdnsheader.html");
         ?>
 
-        <title>ASUSAP</title>
+        <title>ASOCIACIÓN</title>
     </head>
     <body>
 
@@ -28,7 +28,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="modal-title" id="tarif_modalLabel">
-            Modal title TARIFARIO
+            TARIFARIO DE CONSUMO DE AGUA POTABLE
         </h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
@@ -37,7 +37,7 @@
       <div class="modal-body">
         
         <ul>
-            <li>tarifa uno</li>
+            <h5>tarifa plana</h5>
             <li>tarifa dos</li>
             <li>ejemplo</li>
         </ul>
@@ -77,7 +77,7 @@
                     </li>
                     <li class="glide__slide">
                         <div class="texto-presentacion">
-                            <h2 class="text-uppercase px-3" style="font-size: 40px">JUNTA DIRECTIVA ASUSAP<br>2019-2021</h2>                
+                            <h2 class="text-uppercase px-3" style="font-size: 40px">JUNTA DIRECTIVA DE LA ASOCIACIÓN<br>2019-2021</h2>                
                         </div>
                         <img src="public/images/asusap/asus.jpg" class="" alt="...">
                     </li>
@@ -158,23 +158,23 @@
             <div class="container text-center text-white lead">
                 <div class="row">
                     <div class="col-md-12 mb-4">
-                        <h2>Calidad con Certificación por la D.I.S.A</h2>
+                        <h2>Calidad de agua para el consumo humano</h2>
                     </div>
                     <div class="col-md-3">
-                        <p class="display-3">100%</p>
+                        <p class="display-3"></p>
                         <p>Apto para el consumo humano</p>
                     </div>
                     <div class="col-md-3">
-                        <p class="display-3">100%</p>
+                        <p class="display-3"></p>
                         <p>Presencia de cloro residual</p>
                     </div>
                     <div class="col-md-3">
-                        <p class="display-3">100%</p>
+                        <p class="display-3"></p>
                         <p>Análisis físico químico y microbiológico</p>
                     </div>
                     <div class="col-md-3">
-                        <p class="display-3">100%</p>
-                        <p>Con control basado en la ley 26842 </p>
+                        <p class="display-3"></p>
+                        <p>Con control basado en el D.S.031-2010-S.A</p>
                     </div>
                 </div>
 
@@ -217,7 +217,7 @@
                     <li><i class="fas fa-tags"></i> 10. CONSTANCIA DE PAGO DE DESAGUE EXPEDIDO POR LA MUNICIPALIDAD</li>
                 </ul>
                 DERECHO DE INSCRIPCION DE AGUA POTABLE S/. 350.00  </br>
-                INCLUIDO IGV S/. 63.00 ES UN TOTAL DE S/.413.00  </br>
+                MÁS IGV S/. 63.00 ES UN TOTAL DE S/.413.00  </br>
                 OTROS S/.  </br>
                 PONER NÚMERO DE CELULAR  </br>
                 CORREO ELECTRÓNICO
@@ -254,7 +254,7 @@
                     <li><i class="fas fa-tags"></i> SOLICITUD PIDIENDO CAMBIO DE NOMBRE  O RAZON SOCIAL </li>
                     <li><i class="fas fa-tags"></i> COPIA DE TITULO DE PROPIDAD  O COMPRA VENTA A NOMBRE DEL SOLICITANTE </li>
                     <li><i class="fas fa-tags"></i> COPIA DNI</li>
-                    <li><i class="fas fa-tags"></i> RECIBO CANCELADO A NOMBRE DEL TITULAR(NO TENER DEUDA PENDIENTE CON ASUSAP)</li>
+                    <li><i class="fas fa-tags"></i> RECIBO CANCELADO A NOMBRE DEL TITULAR(NO TENER DEUDA PENDIENTE CON LA ASOCIACIÓN)</li>
                 </ul>
 
             </div>
@@ -324,8 +324,8 @@
             <div class="modal-body text-left">
 
                 <ul>                
-                    <li><i class="fas fa-tags"></i> Solicitar el servicio del personal de gasfiteria en la oficina de ASUSAP.</li>
-                    <li><i class="fas fa-tags"></i> asusap se responsabiliza del costo de servicio de gasfiteria hasta la puerta del domicilio.</li>
+                    <li><i class="fas fa-tags"></i> Solicitar el servicio del personal de gasfiteria en la oficina de ASOCIACIÓN.</li>
+                    <li><i class="fas fa-tags"></i> La asociación se responsabiliza del costo de servicio de gasfiteria hasta la puerta del domicilio.</li>
                     <li><i class="fas fa-tags"></i> las averias internas tienen un costo adicional dependiendo del servicio prestado.</li>
                     <!--<li><i class="fas fa-tags"></i> Lorem, ipsum dolor.</li>-->
                 </ul>
@@ -524,7 +524,7 @@
                     <div class="col-md-3">
                         <h3>CONTACTANOS</h3>
                         <ul>
-                            <li>ASUSAP</li>
+                            <li>ASOCIACIÓN</li>
                             <li>Jr. 28 de Julio 221</li>
                             <li>Tel. 083 797 874</li>
                             <li>Atención al usuario</li>
@@ -548,7 +548,7 @@
                     </div>
 
                     <div class="col-md-12 text-center text-muted mt-5" >
-                        <span>CopyRight ASUSAP - 2020</span>
+                        <span>CopyRight ASOCIACIÓN - 2020</span>
                     </div>
                 </div>
             </div>
